@@ -1,1 +1,751 @@
 ,UserID,1,2,3,4,5,6,7,8,9,10,11,12,90,91,92,93,94,95,96,97,98,99,100,101,102,103
+0,1,37,Female,United States,Illinois,-1,No,1,6-25,1,Yes,Yes,No,No,2,Often,No,Not sure,No,Yes,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+1,2,44,Male,United States,Indiana,-1,No,0,More than 1000,0,Don't know,Don't know,No,No,1,Rarely,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,-1
+4,5,31,Male,United States,Texas,-1,No,0,100-500,1,Yes,Don't know,Yes,No,1,Never,Yes,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Yes,No,-1
+5,6,33,Male,United States,Tennessee,-1,Yes,0,6-25,1,Yes,Don't know,No,No,1,Sometimes,No,Not sure,No,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+6,7,35,Female,United States,Michigan,-1,Yes,1,1-5,1,No,No,No,Maybe,1,Sometimes,Yes,No,No,No,Somewhat difficult,Maybe,Some of them,No,No,No,-1
+8,9,42,Female,United States,Illinois,-1,Yes,1,100-500,1,Yes,No,No,No,0,Sometimes,No,Yes,No,No,Very difficult,Maybe,Yes,Yes,Maybe,No,-1
+10,11,31,Male,United States,Ohio,-1,No,1,6-25,1,Don't know,Don't know,No,No,1,Sometimes,Yes,No,No,No,Don't know,No,Some of them,Yes,No,No,-1
+12,13,42,Female,United States,California,-1,Yes,1,26-100,0,Yes,Don't know,Maybe,Yes,0,Sometimes,No,Yes,No,No,Somewhat difficult,Yes,Yes,Yes,Maybe,Yes,-1
+13,14,36,Male,United States,Connecticut,-1,Yes,0,500-1000,1,Don't know,Don't know,No,No,1,Never,No,Not sure,No,Don't know,Don't know,No,Yes,Yes,No,No,"I'm not on my company's health insurance, which could be part of the reason I answered ""Don't know"" to so many questions."
+15,16,29,Female,United States,Illinois,-1,Yes,1,26-100,1,Yes,Don't know,Maybe,No,1,Rarely,No,Not sure,No,No,Somewhat easy,No,Yes,Some of them,Maybe,No,"I have chronic, low-level neurological issues that have mental health side effects. One of my supervisors has also experienced similar neurological problems so I feel more comfortable being open about my issues than I would with someone without that experience. "
+17,18,32,Male,United States,Tennessee,-1,No,1,6-25,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No,-1
+20,21,29,Male,United States,New York,0,Yes,1,100-500,1,Yes,No,No,No,0,Sometimes,No,Yes,No,No,Somewhat difficult,Maybe,Some of them,Some of them,No,No,-1
+22,23,46,Male,United States,Massachusetts,0,No,1,26-100,1,Yes,Don't know,No,No,0,Often,Yes,Yes,No,No,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+23,24,41,Male,United States,Iowa,0,No,1,More than 1000,0,Don't know,Don't know,No,No,1,Never,No,No,No,Don't know,Don't know,Maybe,No,No,Yes,No,-1
+24,25,33,Male,United States,California,0,Yes,1,26-100,1,Yes,Yes,No,No,1,Rarely,No,Not sure,Don't know,Yes,Don't know,No,Yes,Yes,Yes,No,Relatively new job. Ask again later
+25,26,35,Male,United States,Tennessee,0,Yes,1,More than 1000,0,Yes,No,No,No,0,Sometimes,No,Yes,No,Don't know,Very easy,Yes,Some of them,Yes,Yes,No,"Sometimes I think  about using drugs for my mental health issues. If i use drugs, I feel better"
+26,27,33,Male,United States,Tennessee,0,No,0,1-5,1,Don't know,Don't know,No,Maybe,1,-1,No,Not sure,No,Don't know,Don't know,Maybe,Some of them,No,No,No,-1
+27,28,35,Female,United States,California,0,Yes,1,6-25,1,Yes,Don't know,Maybe,No,2,Rarely,Yes,Yes,Don't know,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+28,29,34,Male,United States,Ohio,0,No,1,26-100,1,Don't know,Don't know,No,No,0,Sometimes,Yes,Not sure,No,Don't know,Somewhat difficult,No,Some of them,No,No,No,-1
+33,34,42,Male,United States,Washington,0,Yes,1,26-100,1,Yes,Yes,Maybe,No,1,Sometimes,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Some of them,Yes,No,"I selected my current employer based on its policies about self care and the quality of their overall health and wellness benefits. I still have residual caution from previous employers, who ranged from ambivalent to indifferent to actively hostile regarding mental health concerns."
+34,35,40,Female,United States,Wisconsin,0,No,1,1-5,1,Yes,Don't know,No,No,2,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+35,36,27,Male,United States,New York,0,No,1,6-25,1,No,Don't know,Maybe,No,1,Rarely,No,Yes,No,No,Very easy,No,Yes,Yes,Maybe,No,-1
+38,39,50,Male,United States,Indiana,0,No,0,100-500,1,Yes,Don't know,No,No,1,-1,No,Yes,No,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+39,40,35,Male,United States,Texas,0,No,1,More than 1000,1,Yes,Yes,Maybe,No,2,Rarely,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,Maybe,No,-1
+41,42,35,Male,United States,Michigan,0,No,0,More than 1000,1,Yes,Don't know,No,Yes,1,-1,Yes,Not sure,Don't know,Yes,Somewhat difficult,Yes,Some of them,No,Maybe,No,-1
+44,45,30,Male,United States,Indiana,0,No,1,26-100,1,Don't know,Don't know,No,No,1,Sometimes,No,No,No,No,Don't know,No,No,No,Maybe,No,-1
+45,46,38,Female,United States,Texas,0,Yes,1,26-100,1,Yes,Yes,No,No,2,Sometimes,No,Yes,No,Yes,Somewhat easy,No,Some of them,Yes,No,No,"Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery, but, y'know, I wasn't delivering."
+47,48,34,Male,United States,Tennessee,0,No,0,6-25,1,No,Don't know,Maybe,No,1,-1,No,No,No,No,Don't know,No,Yes,Yes,Yes,No,-1
+49,50,30,Male,United States,Illinois,0,Yes,1,26-100,1,Yes,Don't know,No,No,1,Rarely,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No,"I just started a new job last week, hence, a lot of ""don't know's"""
+50,51,22,Male,United States,Texas,0,Yes,1,6-25,1,No,Yes,No,No,1,Often,No,Yes,No,No,Very difficult,Maybe,No,No,Maybe,No,-1
+51,52,33,Male,United States,Utah,0,No,0,100-500,1,Don't know,Don't know,Maybe,No,1,-1,Yes,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+52,53,31,Male,United States,-1,0,No,0,100-500,1,Don't know,Don't know,Maybe,Maybe,1,-1,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+53,54,32,Male,United States,Tennessee,0,No,0,1-5,1,Don't know,Don't know,No,No,1,Never,Yes,Not sure,No,No,Don't know,Maybe,Some of them,Yes,No,No,-1
+55,56,27,Male-ish,United States,New York,0,Yes,1,26-100,1,Yes,Yes,No,No,1,Rarely,No,Yes,No,No,Don't know,Maybe,No,No,No,No,-1
+56,57,32,Male,United States,Tennessee,0,Yes,0,6-25,1,Don't know,Don't know,No,No,2,-1,Yes,No,No,No,Somewhat easy,No,Yes,Yes,No,No,-1
+57,58,24,Male,United States,New York,0,Yes,1,26-100,1,Don't know,Don't know,Yes,Maybe,0,Sometimes,Yes,No,No,No,Don't know,No,Some of them,Yes,Yes,No,-1
+58,59,26,Male,United States,Tennessee,0,No,0,26-100,0,No,Yes,Maybe,No,1,-1,No,No,No,No,Somewhat easy,No,Some of them,Yes,Yes,No,-1
+60,61,44,Male,United States,Iowa,0,Yes,1,More than 1000,0,Yes,Don't know,No,Maybe,1,Sometimes,No,No,No,Don't know,Don't know,Yes,Some of them,No,Maybe,Yes,-1
+65,66,40,Male,United States,California,0,Yes,0,More than 1000,1,Yes,Don't know,No,Maybe,0,Sometimes,Yes,Yes,Yes,Yes,Don't know,Yes,Some of them,No,No,Yes,-1
+67,68,36,Male,United States,Texas,0,No,0,100-500,1,Yes,Don't know,Maybe,No,2,Sometimes,Yes,No,Don't know,Yes,Don't know,Maybe,Some of them,Some of them,Yes,No,-1
+68,69,31,Female,United States,New Mexico,0,No,0,26-100,0,Don't know,Don't know,No,No,1,-1,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+72,73,23,Trans-female,United States,Massachusetts,0,No,0,More than 1000,1,Yes,Yes,No,No,0,Rarely,No,Yes,No,No,Somewhat difficult,Maybe,Yes,Yes,No,No,-1
+74,75,33,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,2,Never,No,Not sure,Yes,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+76,77,25,Male,United States,Washington,0,No,0,More than 1000,1,Yes,Don't know,Maybe,No,2,-1,Yes,Yes,Yes,Yes,Don't know,No,Yes,Yes,Yes,No,-1
+78,79,32,Male,United States,Utah,0,Yes,1,26-100,1,No,Don't know,No,No,0,Sometimes,Yes,No,No,No,Somewhat difficult,Yes,Some of them,No,Yes,No,-1
+80,81,38,Male,United States,New York,0,Yes,0,100-500,1,Yes,Don't know,Maybe,No,2,Sometimes,Yes,Yes,No,Yes,Don't know,No,Yes,Some of them,Maybe,No,-1
+84,85,33,Male,United States,California,0,Yes,0,More than 1000,1,No,Don't know,No,No,0,Never,No,No,No,No,Don't know,Yes,No,No,Maybe,No,-1
+85,86,31,Male,United States,Texas,0,No,0,26-100,1,Don't know,Don't know,Maybe,No,0,-1,No,Not sure,No,No,Don't know,No,Some of them,Yes,Maybe,No,-1
+87,88,34,Female,United States,Oregon,0,Yes,1,500-1000,1,Yes,Don't know,No,Maybe,1,Rarely,Yes,Not sure,No,Don't know,Don't know,Yes,Some of them,Some of them,No,No,-1
+88,89,29,Female,United States,Florida,0,No,1,26-100,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,Some of them,Maybe,Yes,-1
+89,90,32,Male,United States,Illinois,0,No,0,500-1000,1,Don't know,Don't know,No,No,1,-1,No,No,No,Don't know,Don't know,No,Some of them,Some of them,No,No,-1
+90,91,31,Male,United States,New York,0,No,0,500-1000,1,Yes,Yes,No,No,2,Never,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,No,No,-1
+91,92,40,Male,United States,Texas,0,No,1,26-100,1,No,Yes,Yes,No,0,Sometimes,No,Yes,No,No,Very difficult,No,Yes,Yes,Yes,No,-1
+92,93,34,Male,United States,Ohio,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,No,No,No,No,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+95,96,29,Male,United States,Minnesota,0,No,0,26-100,1,Don't know,Don't know,Maybe,No,0,Never,No,No,No,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+96,97,24,Male,United States,Missouri,0,Yes,0,26-100,1,Don't know,Don't know,No,Maybe,1,Rarely,No,Not sure,No,Don't know,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+98,99,33,Male,United States,Arizona,0,No,1,6-25,1,No,Don't know,No,No,0,Sometimes,No,Yes,No,No,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+99,100,30,Male,United States,Indiana,0,No,1,1-5,1,No,Yes,Maybe,No,2,Often,No,Yes,No,No,Somewhat easy,No,Yes,Yes,Maybe,No,-1
+101,102,44,Female,United States,Massachusetts,0,No,0,100-500,1,Yes,Don't know,No,Maybe,1,Never,No,Not sure,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,-1
+102,103,25,Male,United States,New York,0,Yes,0,26-100,1,Don't know,Don't know,No,No,1,-1,No,No,Don't know,Don't know,Very easy,No,Some of them,Yes,No,No,-1
+103,104,33,Male,United States,Wisconsin,0,Yes,1,26-100,1,Yes,Yes,Maybe,No,2,Sometimes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+104,105,29,Male,United States,New York,0,No,0,More than 1000,1,Yes,Don't know,No,No,1,Never,No,Not sure,Yes,Don't know,Somewhat easy,No,Some of them,Yes,No,No,-1
+105,106,35,Male,United States,Missouri,0,Yes,0,6-25,1,Yes,Yes,No,No,1,Rarely,No,Not sure,No,No,Somewhat easy,No,Some of them,Yes,No,No,-1
+106,107,35,Male,United States,Oregon,0,Yes,1,26-100,1,Don't know,Don't know,No,No,0,Sometimes,Yes,Not sure,No,No,Somewhat easy,No,Some of them,Yes,Maybe,No,"I've seen negative consequences towards mental health conditions in previous workplaces.
+
+Working remote is empowering in this way."
+108,109,34,Male,United States,Tennessee,0,Yes,0,6-25,1,Yes,Don't know,No,No,1,Never,Yes,No,No,No,Don't know,Maybe,No,No,No,No,-1
+109,110,32,Male,United States,Washington,0,No,1,26-100,1,Yes,Yes,No,No,2,Sometimes,No,No,Yes,Yes,Somewhat difficult,Maybe,Some of them,Yes,Maybe,No,-1
+110,111,22,Male,United States,New York,0,No,1,500-1000,1,Yes,Yes,No,No,0,Sometimes,No,Yes,No,Don't know,Don't know,Yes,No,No,Yes,No,-1
+111,112,28,Male,United States,California,0,No,1,26-100,1,Yes,Yes,No,No,2,Sometimes,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Some of them,Maybe,No,-1
+112,113,45,Male,United States,Missouri,0,Yes,1,6-25,1,Yes,Yes,Yes,No,2,Rarely,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,Yes,No,-1
+113,114,32,Male,United States,New York,0,No,0,100-500,1,Yes,Don't know,No,No,1,Never,No,Yes,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+114,115,28,Male,United States,Texas,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,-1,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+118,119,18,Male,United States,Connecticut,0,No,1,1-5,1,No,Yes,No,No,1,Rarely,Yes,No,No,No,Very easy,No,Some of them,No,No,No,-1
+119,120,35,Male,United States,Colorado,0,No,0,26-100,1,Don't know,Don't know,Maybe,No,1,-1,Yes,Not sure,No,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+120,121,29,Male,United States,Georgia,0,No,0,More than 1000,1,Yes,Don't know,No,Yes,1,Never,No,Yes,No,Yes,Don't know,Yes,No,No,No,No,-1
+121,122,25,Male,United States,DC,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,Yes,No,No,No,Very easy,No,Some of them,Yes,No,No,-1
+122,123,33,Male,United States,Minnesota,0,Yes,1,6-25,1,Don't know,Yes,No,No,2,Sometimes,Yes,No,Don't know,Don't know,Very easy,No,Yes,Yes,Maybe,No,-1
+123,124,36,Male,United States,Washington,0,No,0,6-25,1,Yes,Yes,No,No,1,Often,No,No,No,No,Don't know,Maybe,No,No,No,No,-1
+125,126,27,Male,United States,Washington,0,Yes,0,500-1000,1,Yes,Yes,No,No,1,Never,No,No,Yes,Yes,Don't know,Yes,Some of them,No,Yes,No,-1
+127,128,32,Male,United States,Oregon,0,No,1,100-500,1,Yes,Yes,No,No,1,Rarely,No,Yes,No,Yes,Don't know,Yes,No,Yes,No,No,-1
+130,131,33,Male,United States,Illinois,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,No,Very easy,Maybe,Yes,Some of them,Yes,No,-1
+131,132,32,Male,United States,California,0,No,0,1-5,1,No,Don't know,No,No,1,Rarely,Yes,Yes,No,No,Very difficult,Maybe,Yes,Some of them,Yes,No,-1
+132,133,27,Male,United States,Nebraska,0,No,0,26-100,1,Don't know,Don't know,Maybe,No,1,Never,No,Not sure,Don't know,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+137,138,39,Male,United States,Iowa,0,No,1,More than 1000,1,Yes,Don't know,No,No,1,Often,No,Not sure,No,No,Somewhat easy,No,Yes,Yes,No,No,-1
+138,139,29,Female,United States,Maryland,0,No,0,6-25,1,Don't know,Don't know,No,No,1,-1,No,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,No,No,-1
+140,141,38,Male,United States,Oregon,0,Yes,1,100-500,1,Don't know,Don't know,No,No,1,Sometimes,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Yes,No,No,-1
+142,143,35,Male,United States,Texas,0,No,0,26-100,0,Don't know,Don't know,No,No,1,Never,Yes,Not sure,Don't know,Don't know,Don't know,Yes,Some of them,No,Maybe,No,-1
+143,144,-29,Male,United States,Minnesota,0,No,0,More than 1000,0,Yes,Don't know,No,No,1,-1,Yes,No,Don't know,Yes,Don't know,No,Some of them,Yes,No,No,-1
+144,145,30,Female,United States,Pennsylvania,0,Yes,0,More than 1000,1,Don't know,Don't know,No,Maybe,1,-1,Yes,Not sure,No,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,No,"I'd be more worried about coworkers and workplace culture than the employer--they're probably legally obligated to do some things, but reputation among people I work with is something else. For instance, I've heard people make snide remarks about men taking paternity leave, I don't want to know what they'd say about mental health leave."
+145,146,37,Male,United States,Indiana,0,Yes,1,100-500,0,Yes,Don't know,Maybe,Maybe,1,Rarely,No,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Maybe,No,-1
+147,148,23,Male,United States,West Virginia,0,No,0,6-25,0,No,No,No,Yes,0,Sometimes,No,No,No,No,Somewhat easy,Yes,No,No,No,No,-1
+149,150,29,Female,United States,Michigan,0,No,0,100-500,1,Don't know,Don't know,No,No,1,-1,Yes,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Maybe,No,-1
+151,152,32,Male,United States,California,0,Yes,0,26-100,1,Don't know,Don't know,No,No,0,Never,No,Not sure,No,No,Very easy,No,Some of them,Some of them,Maybe,No,-1
+153,154,36,Male,United States,Illinois,0,No,0,6-25,1,Don't know,Don't know,Maybe,No,1,Never,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Some of them,Maybe,No,-1
+155,156,25,Male,United States,Illinois,0,Yes,1,26-100,0,Don't know,Don't know,No,No,0,Sometimes,No,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Some of them,Maybe,No,-1
+156,157,27,Male,United States,California,0,Yes,1,More than 1000,1,Don't know,Don't know,No,No,1,Sometimes,No,No,No,Don't know,Don't know,No,No,Some of them,Maybe,No,-1
+157,158,26,Male,United States,Oklahoma,0,No,0,26-100,0,Don't know,Don't know,No,Maybe,0,Often,No,Not sure,No,No,Don't know,Yes,Some of them,Yes,Maybe,No,-1
+158,159,27,Male,United States,Utah,0,No,1,26-100,1,No,Don't know,No,No,1,Rarely,Yes,Yes,No,No,Somewhat difficult,Maybe,Some of them,Yes,No,Yes,"Had a co-worker disappear from work for a few weeks, and then come back to let everyone know he was bipolar. His responsibilities and schedule were adjusted to accommodate, but he got worse, didn't show up, didn't work, etc, and was eventually let go.
+It was tough, because on the one hand he was struggling with some mental health issues, but on the other hand he went through a period of months where he wasn't performing."
+159,160,25,Male,United States,Illinois,0,Yes,1,26-100,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,No,Very easy,Maybe,Some of them,No,No,Yes,"Family history of depression.  Currently dealing with depression and anxiety, as well as drug addition.
+
+Employer provides & pays premiums on insurance which covers therapy and prescriptions.  Employer allows work-from-home and unlimited PTO which makes episodes easier to control.
+
+I don't speak of my problems to anyone at work except for the people that I consider friends, and even then I don't go into great detail.
+
+I would never bring up a mental health issue during an interview for fear of discrimination and rejection (and therefore greater depression).  
+
+One co-worker had serious anxiety problems and would not inform his team of episodes and was eventually let go for being unresponsive."
+161,162,25,Female,United States,New York,0,Yes,1,500-1000,1,Yes,Don't know,No,Yes,1,Sometimes,No,No,No,No,Don't know,Yes,Some of them,Some of them,No,No,-1
+162,163,31,Male,United States,California,0,No,0,More than 1000,1,Yes,Don't know,No,No,1,Never,No,No,No,Yes,Don't know,No,Some of them,Some of them,No,No,-1
+163,164,26,Male,United States,Massachusetts,0,Yes,0,6-25,1,Don't know,Don't know,No,No,1,Rarely,No,No,No,No,Don't know,Maybe,Some of them,Yes,No,No,-1
+166,167,34,Male,United States,Minnesota,0,No,0,26-100,1,No,Don't know,No,No,1,Never,No,No,No,No,Very easy,Maybe,Some of them,Some of them,Maybe,No,-1
+167,168,42,Male,United States,California,0,No,0,6-25,1,No,Don't know,No,No,0,-1,No,Yes,No,No,Very difficult,Maybe,Yes,Yes,Maybe,No,-1
+173,174,23,Female,United States,North Carolina,0,No,0,6-25,1,Don't know,Don't know,No,Maybe,2,-1,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+175,176,31,Male,United States,Missouri,0,No,0,26-100,1,Don't know,Don't know,No,No,1,Never,No,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Maybe,No,-1
+177,178,32,Female,United States,Massachusetts,0,No,1,6-25,1,Yes,Yes,No,No,2,Often,Yes,Not sure,Don't know,Don't know,Very easy,No,Yes,Yes,No,Yes,"I am not sure about my company's healthcare because I've opted out of it and I'm covered under another policy.
+
+I currently work at a great company, though in past jobs I don't think I would have felt comfortable talking about mental health at all."
+178,179,45,Female,United States,California,0,No,1,1-5,1,Yes,Yes,No,No,2,Sometimes,No,No,No,No,Somewhat difficult,No,Yes,Yes,No,No,"In small startups it is very hard to keep mental health issues truly private, no matter what management does."
+179,180,33,Male,United States,Texas,0,No,0,6-25,1,Don't know,Don't know,No,No,1,-1,Yes,No,No,No,Very easy,No,Yes,Yes,Maybe,No,A close family member of mine struggles with mental health so I try not to stigmatize it. My employers/coworkers also seem compassionate toward any kind of health or family needs.
+183,184,45,Male,United States,California,0,No,1,More than 1000,1,Don't know,Don't know,No,Yes,1,Sometimes,No,Not sure,Don't know,Don't know,Don't know,Yes,Some of them,Some of them,No,No,-1
+184,185,43,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Don't know,No,Maybe,0,Often,Yes,Not sure,No,Don't know,Very difficult,Yes,No,No,No,No,-1
+185,186,37,Male,United States,Massachusetts,0,No,0,500-1000,1,Yes,Don't know,Maybe,No,0,-1,Yes,No,No,No,Don't know,Yes,Some of them,No,Yes,No,-1
+189,190,35,Female,United States,California,0,Yes,1,More than 1000,1,Yes,Yes,No,No,1,Never,No,Not sure,Don't know,No,Somewhat easy,Maybe,No,No,No,No,-1
+191,192,28,Male,United States,Michigan,0,Yes,1,26-100,1,Yes,Don't know,No,Maybe,0,Sometimes,No,No,No,No,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+193,194,35,Male,United States,California,0,No,1,6-25,1,No,Yes,No,No,1,Rarely,No,No,No,No,Don't know,No,Some of them,Yes,No,No,-1
+196,197,35,Female,United States,New York,0,No,0,500-1000,1,Don't know,Don't know,No,Maybe,1,Never,Yes,Not sure,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+197,198,26,Male,United States,California,0,No,0,More than 1000,1,Yes,Yes,No,No,0,Rarely,No,No,No,No,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+198,199,27,Male,United States,Tennessee,0,Yes,0,6-25,1,Yes,Don't know,No,Maybe,2,-1,Yes,Yes,No,No,Somewhat easy,Maybe,Some of them,Some of them,Maybe,No,-1
+200,201,27,Female,United States,Oregon,0,Yes,1,26-100,1,Yes,Don't know,No,No,2,Sometimes,No,No,No,No,Very easy,No,Some of them,Some of them,No,No,"My seniority at the company and rapport with the owners has helped me gain support for seeking help regarding my mental health, as well as being able to take time off or work from home when an episode starts.
+
+However, I don't feel that the company's stance on mental health is as clear as, say, something like vision or dental.  There's very much a stigma."
+201,202,34,Female,United States,Minnesota,0,No,1,500-1000,0,Yes,Yes,No,No,2,Sometimes,No,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,No,No,-1
+202,203,41,Male,United States,Florida,0,No,1,6-25,1,No,Don't know,Maybe,Maybe,1,Often,Yes,Not sure,No,No,Very difficult,Maybe,Some of them,Some of them,Maybe,No,-1
+207,208,30,Male,United States,Massachusetts,0,No,1,26-100,1,No,Yes,No,No,1,Often,No,Yes,No,No,Somewhat easy,Maybe,Yes,Yes,Maybe,No,-1
+208,209,24,Male,United States,Kansas,0,No,0,26-100,1,Don't know,Don't know,No,No,1,Never,No,Not sure,No,Don't know,Don't know,No,Some of them,Yes,No,No,-1
+210,211,40,Female,United States,DC,0,No,0,26-100,1,Yes,Yes,No,No,2,-1,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,No,No,-1
+213,214,32,Female,United States,Texas,0,Yes,1,6-25,1,Don't know,No,No,Maybe,0,Sometimes,No,No,No,No,Don't know,Yes,Some of them,Some of them,Maybe,Yes,-1
+214,215,32,Female,United States,Massachusetts,0,No,1,100-500,0,Yes,Yes,No,No,2,Sometimes,No,Yes,Don't know,Don't know,Very easy,No,Yes,Yes,Yes,No,-1
+218,219,29,Female,United States,New York,0,No,1,500-1000,0,Yes,Don't know,No,No,1,Never,No,No,No,Don't know,Somewhat difficult,Maybe,Some of them,No,No,No,-1
+219,220,41,Male,United States,Virginia,0,No,0,26-100,1,Yes,Don't know,No,No,1,-1,No,Not sure,No,No,Very easy,Yes,No,Some of them,No,No,-1
+220,221,34,Female,United States,Washington,0,No,0,6-25,1,Yes,Don't know,Maybe,No,2,-1,No,No,No,No,Somewhat easy,No,Yes,Yes,Maybe,No,"One of my coworkers has mental health issues, and she's open about them (eg: ""my enjoyment of this project may be due to my recent change in meds""). I believe the response has been generally supportive. We're a very small, tight-knit company."
+222,223,28,Male,United States,Pennsylvania,0,No,0,6-25,1,Don't know,Don't know,No,No,1,Rarely,No,No,No,No,Don't know,No,Some of them,Some of them,Maybe,No,-1
+223,224,28,Male,United States,Michigan,0,No,1,More than 1000,1,No,Yes,No,No,0,Sometimes,No,Yes,No,No,Very difficult,Yes,No,Some of them,No,No,-1
+224,225,23,Male,United States,Pennsylvania,0,No,0,26-100,1,Don't know,Don't know,No,No,2,Never,No,Not sure,Don't know,Don't know,Don't know,No,No,Yes,Yes,No,A strong mind goes a long way. Stay strong. Take some time off to help. Its all in your head.
+225,226,24,Male,United States,Oregon,0,No,0,1-5,1,Don't know,Yes,Maybe,No,2,-1,No,No,Don't know,No,Very easy,No,Yes,Yes,Yes,No,"""Would you bring up a mental health issue with a potential employer in an interview?""
+
+Poignant."
+226,227,32,Male,United States,Washington,0,No,0,1-5,1,No,Don't know,No,No,2,Rarely,Yes,Yes,No,No,Very difficult,No,Some of them,Yes,Maybe,No,-1
+228,229,24,Male,United States,Pennsylvania,0,No,0,6-25,1,Yes,Don't know,Maybe,No,2,Never,No,Not sure,No,Don't know,Very easy,Maybe,Some of them,No,Maybe,No,-1
+230,231,36,Male,United States,Ohio,0,No,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,No,No,No,Yes,Don't know,Maybe,Some of them,Some of them,Maybe,Yes,-1
+231,232,41,Male,United States,Texas,0,No,1,500-1000,1,Yes,Don't know,Maybe,Maybe,0,Rarely,Yes,Yes,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,"I found it difficult to answer all of the questions effectively as many of them would depend on the nature of the ""mental health issues"" as some seem more socially accepted than others. For some people, telling your current supervisor that you have a history of bi-polar disorder might be easier than telling a potential employer that you have a history of compulsive gambling. 
+
+They might both be bits of irrelevant information (past behavior and not indicators of future behavior). However, western culture pushes us to appear as capable as possible to our supervisors in pursuit of excellence in our work. Providing information that could create a negative bias, seems like a more genuine and yet more risky approach to the discussion."
+233,234,38,Male,United States,New Hampshire,0,No,0,26-100,1,Don't know,Don't know,No,Maybe,0,Sometimes,Yes,Not sure,No,Don't know,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+238,239,37,Female,United States,North Carolina,0,Yes,1,More than 1000,0,Yes,Yes,No,No,2,Sometimes,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Some of them,Maybe,No,-1
+241,242,34,Male,United States,Florida,0,Yes,1,1-5,1,No,Don't know,No,No,0,Sometimes,No,No,No,No,Somewhat difficult,Maybe,Some of them,Some of them,Maybe,Yes,-1
+242,243,33,Male,United States,California,0,Yes,1,26-100,1,Yes,Yes,No,No,1,Sometimes,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,No,No,-1
+244,245,27,Male,United States,Georgia,0,No,0,More than 1000,1,Yes,Yes,Maybe,No,2,Never,Yes,Yes,Don't know,Don't know,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+245,246,40,Male,United States,Ohio,0,No,1,More than 1000,1,Yes,Yes,No,Maybe,0,Sometimes,Yes,Yes,Yes,Yes,Don't know,Yes,No,No,Maybe,Yes,"I have only discussed my mental illness with close family members. I feel completely uncomfortable discussing with anyone at my place of employment, as I am concerned it would have negative consequences."
+246,247,21,Male,United States,Kentucky,0,No,1,6-25,0,Don't know,Don't know,No,No,1,Often,No,No,No,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+248,249,32,Male,United States,North Carolina,0,Yes,1,1-5,1,No,Don't know,No,No,1,Sometimes,Yes,No,No,No,Don't know,Maybe,Yes,Yes,Yes,No,-1
+249,250,29,Female,United States,New York,0,Yes,1,500-1000,0,Yes,Yes,Maybe,No,1,Rarely,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,No,Yes,No,-1
+250,251,23,Male,United States,Alabama,0,Yes,1,26-100,0,Don't know,Yes,No,No,2,Sometimes,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Yes,No,-1
+251,252,28,Male,United States,Georgia,0,Yes,0,100-500,1,Yes,Yes,No,No,2,-1,No,No,No,Don't know,Somewhat easy,No,Some of them,Yes,Maybe,Yes,-1
+252,253,31,Male,United States,California,0,Yes,1,100-500,1,Yes,Yes,No,No,2,Rarely,Yes,Yes,Yes,Don't know,Very easy,No,Some of them,Yes,Maybe,No,-1
+254,255,24,Male,United States,Virginia,0,No,0,6-25,1,Don't know,Don't know,Maybe,No,1,Sometimes,No,No,Don't know,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+257,258,42,Male,United States,Washington,0,No,0,6-25,1,No,Don't know,No,No,2,Never,Yes,Yes,No,Yes,Somewhat easy,No,Some of them,Yes,No,No,"No benefits at this organization, but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions, advice, time/energy to get help, if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company, but this environment is the exception rather than the norm in my 15+ years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions, job loss, performance dings, etc. "
+260,261,27,Female,United States,Texas,0,No,1,6-25,1,Yes,Yes,No,Maybe,1,Rarely,No,No,No,No,Don't know,Maybe,Yes,No,Maybe,No,-1
+262,263,30,Male,United States,Florida,0,No,1,100-500,1,Yes,Yes,Maybe,No,2,Sometimes,Yes,Yes,No,Yes,Don't know,No,Yes,Yes,No,No,-1
+265,266,32,Male,United States,Nevada,0,No,0,6-25,1,No,Don't know,No,No,1,-1,No,Yes,No,Don't know,Very easy,No,Some of them,Yes,Maybe,No,-1
+266,267,41,Male,United States,Alabama,0,No,1,26-100,1,Yes,Don't know,Yes,No,2,Sometimes,Yes,Yes,Don't know,No,Very easy,No,Yes,Yes,Yes,No,I think I am very lucky in my workplace. Our CEO has a degree in psychology.
+268,269,37,Female,United States,California,0,Yes,1,26-100,1,Yes,Yes,No,No,1,Often,No,Yes,No,No,Don't know,Maybe,Some of them,Some of them,Yes,No,-1
+269,270,32,Male,United States,Colorado,0,No,0,6-25,1,No,Don't know,No,No,1,Never,Yes,No,No,No,Very easy,No,Yes,Yes,No,No,-1
+271,272,23,Female,United States,Minnesota,0,Yes,1,100-500,0,Yes,Yes,Maybe,No,2,Never,No,No,Don't know,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+272,273,30,Male,United States,New Jersey,0,No,0,More than 1000,1,Yes,Yes,No,No,2,-1,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,No,No,-1
+274,275,38,Male,United States,Pennsylvania,0,No,1,26-100,1,Yes,Don't know,No,No,0,Rarely,Yes,No,No,No,Don't know,Yes,No,No,Maybe,No,-1
+276,277,34,Male,United States,Missouri,0,No,0,26-100,0,Yes,Don't know,No,No,1,-1,No,No,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+278,279,28,Male,United States,Minnesota,0,No,1,100-500,0,Yes,Don't know,No,No,2,Rarely,No,Yes,Yes,Don't know,Very easy,Maybe,Some of them,Some of them,No,No,-1
+279,280,23,Male,United States,Pennsylvania,0,Yes,0,100-500,1,Don't know,Don't know,No,No,0,Sometimes,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+282,283,18,Male,United States,Texas,0,No,1,6-25,1,Don't know,Don't know,No,No,1,Sometimes,No,No,No,Don't know,Don't know,Yes,No,No,Maybe,No,-1
+283,284,35,Male,United States,New York,0,Yes,1,26-100,1,Yes,Yes,No,No,1,Sometimes,No,Yes,No,No,Somewhat difficult,Yes,No,Some of them,Maybe,No,-1
+286,287,26,Female,United States,Washington,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,1,Rarely,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+287,288,18,Male,United States,Washington,0,No,0,26-100,1,Don't know,Don't know,No,No,2,Never,No,Not sure,Don't know,Don't know,Very easy,No,Some of them,Some of them,Maybe,No,-1
+288,289,38,Female,United States,Texas,0,No,1,1-5,1,No,Don't know,No,Maybe,1,Sometimes,No,Yes,No,No,Don't know,No,Some of them,No,No,Yes,The form of mental health problem that I suffer is anxiety.
+289,290,26,Female,United States,Texas,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,1,Rarely,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,Some of them,No,No,No,-1
+291,292,35,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,Maybe,1,Never,No,No,No,Don't know,Don't know,Yes,Some of them,Some of them,No,No,-1
+292,293,45,Male,United States,New York,0,Yes,1,More than 1000,1,Yes,Yes,No,No,1,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+293,294,32,Male,United States,California,0,No,0,More than 1000,1,Yes,Don't know,No,No,1,Never,No,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+294,295,56,Male,United States,-1,0,No,1,More than 1000,1,Yes,Don't know,No,Maybe,1,Never,No,Not sure,Don't know,Don't know,Don't know,No,Yes,Some of them,Maybe,No,-1
+295,296,24,Female,United States,California,0,No,0,500-1000,1,Don't know,Don't know,No,Maybe,0,-1,No,Not sure,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+296,297,30,Female,United States,South Carolina,0,Yes,1,26-100,1,Yes,Don't know,No,No,2,Sometimes,No,Yes,Yes,Don't know,Very easy,No,Yes,Yes,Yes,No,-1
+297,298,60,Male,United States,California,0,No,0,More than 1000,1,Yes,Don't know,Maybe,No,2,-1,No,No,Don't know,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+298,299,33,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,1,Sometimes,No,No,Yes,Yes,Don't know,Yes,No,No,Maybe,No,-1
+299,300,37,Male,United States,New York,0,No,0,More than 1000,1,Yes,Don't know,Maybe,No,1,Never,No,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+300,301,23,Female,United States,New York,0,No,1,More than 1000,1,Yes,Don't know,No,No,2,Sometimes,No,Yes,Yes,Yes,Don't know,No,Some of them,Some of them,No,No,-1
+301,302,31,Female,United States,California,0,No,1,More than 1000,1,Yes,Yes,No,No,2,Sometimes,No,Not sure,Don't know,Don't know,Somewhat easy,No,Yes,Yes,No,No,-1
+302,303,26,Male,United States,Massachusetts,0,No,0,100-500,1,Yes,Don't know,No,No,1,Rarely,No,Not sure,No,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+303,304,28,Female,United States,Washington,0,Yes,1,100-500,0,Yes,Yes,No,No,2,Often,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Yes,No,No,-1
+304,305,37,Female,United States,California,0,No,1,More than 1000,1,Yes,Don't know,No,No,2,Rarely,No,Yes,Don't know,Yes,Somewhat easy,No,Some of them,Yes,No,No,-1
+306,307,30,queer/she/they,United States,Illinois,0,Yes,1,26-100,1,Yes,Don't know,No,No,1,Rarely,No,Not sure,No,No,Somewhat easy,Maybe,Some of them,Yes,No,No,-1
+307,308,26,Male,United States,Indiana,0,No,0,26-100,1,No,Don't know,No,No,1,-1,No,No,No,No,Don't know,No,Some of them,Some of them,No,Yes,-1
+308,309,25,Male,United States,Oregon,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,Yes,Not sure,No,Don't know,Don't know,No,Some of them,Yes,No,No,-1
+309,310,27,Male,United States,Tennessee,0,No,0,100-500,1,Yes,Don't know,No,No,1,Sometimes,No,Not sure,Yes,Yes,Don't know,Maybe,Some of them,Yes,Maybe,No,"The thought of going through my employer directly to get help is fucking scary.
+
+Getting help is the hardest part of getting help."
+311,312,35,Male,United States,Oregon,0,No,1,100-500,1,Yes,Don't know,No,No,1,Rarely,No,Not sure,Don't know,Yes,Don't know,No,Some of them,Yes,No,No,-1
+313,314,26,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,Not sure,No,Don't know,Don't know,Yes,No,No,No,No,-1
+314,315,27,Male,United States,California,0,Yes,0,More than 1000,1,Don't know,Don't know,Maybe,No,2,-1,No,No,Don't know,Don't know,Very easy,No,Yes,Yes,Maybe,No,"""Don't know"" because I haven't checked, not because it's difficult to find out. If you didn't have the ""don't know"" option, I would've looked up the answer."
+315,316,30,Male,United States,Vermont,0,No,0,6-25,0,Don't know,Don't know,No,Maybe,1,-1,No,Not sure,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+316,317,29,Male,United States,New York,0,No,0,100-500,0,Don't know,Don't know,No,No,1,-1,No,Not sure,No,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+317,318,25,Male,United States,Utah,0,No,0,More than 1000,0,Yes,Yes,Maybe,No,2,Never,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Maybe,No,-1
+318,319,22,Female,United States,New York,0,Yes,1,More than 1000,1,Yes,Yes,No,No,2,Often,No,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,No,Yes,-1
+320,321,41,Male,United States,South Dakota,0,Yes,1,100-500,1,Yes,Yes,Maybe,No,2,Rarely,Yes,Yes,Don't know,Yes,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+321,322,29,Male,United States,California,0,No,1,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,No,No,Don't know,Don't know,Yes,Some of them,Some of them,Maybe,No,-1
+322,323,32,Male,United States,Oregon,0,No,0,500-1000,1,Yes,Yes,Maybe,No,2,Never,No,Not sure,Don't know,Yes,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+323,324,24,Female,United States,California,0,Yes,1,More than 1000,1,Yes,Yes,No,No,1,Sometimes,No,Yes,No,Yes,Don't know,Maybe,Some of them,No,Maybe,No,-1
+324,325,25,Male,United States,California,0,No,1,6-25,1,Yes,Don't know,No,No,1,Rarely,No,No,Don't know,No,Don't know,Maybe,No,No,No,No,-1
+325,326,25,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,-1,No,Not sure,Don't know,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+326,327,30,Female,United States,Colorado,0,No,0,More than 1000,1,Yes,Yes,No,Maybe,1,Never,No,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,No,No,-1
+327,328,25,Male,United States,California,0,Yes,1,More than 1000,1,Don't know,Don't know,No,No,2,Sometimes,No,Not sure,Don't know,Yes,Don't know,No,Yes,Yes,No,No,-1
+330,331,24,Male,United States,Washington,0,No,0,26-100,1,Yes,Yes,No,No,2,-1,No,Not sure,Yes,Yes,Very easy,No,Some of them,Some of them,Maybe,No,-1
+332,333,31,Male,United States,Ohio,0,No,0,100-500,0,Don't know,Yes,No,No,0,-1,No,No,No,No,Somewhat easy,Maybe,No,No,Yes,No,-1
+335,336,46,Male,United States,Washington,0,No,0,26-100,1,Yes,Don't know,Maybe,No,1,Never,No,Not sure,Yes,Don't know,Very easy,No,Some of them,Some of them,Maybe,No,-1
+338,339,24,Male,United States,Massachusetts,0,No,0,More than 1000,1,Yes,Yes,No,No,1,-1,No,Yes,Don't know,Don't know,Don't know,Yes,No,No,Maybe,No,"I think there might be some bugs in my thought, but I haven't sought treatment because they're not worse than annoying and I worry about having the label."
+339,340,29,Male,United States,Washington,0,No,0,26-100,1,Yes,Yes,No,No,2,-1,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Maybe,No,"I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that, unfortunately, ended negatively. It was definitely a catalyst to talking about our options, but the overall sentiment of it being ""OK"" to take time off, talk with your supervisors, etc., has always been there. It's a great company."
+340,341,35,Male,United States,Michigan,0,No,0,26-100,0,Don't know,Don't know,No,No,0,-1,No,Not sure,No,Don't know,Don't know,No,Yes,Yes,No,No,-1
+341,342,33,Female,United States,Washington,0,Yes,0,26-100,1,No,Don't know,No,Maybe,0,Sometimes,Yes,Yes,No,No,Very difficult,Yes,Some of them,Some of them,Maybe,No,-1
+342,343,27,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,0,Sometimes,No,Not sure,Don't know,Don't know,Very easy,Yes,No,No,Maybe,No,"Regardless of a stated lack of negative consequences for discussing mental health issues with coworkers/superiors, unconscious bias is a very real thing - as long as I don't *need* to inform my co-workers, my mental health issues do not need to be public knowledge."
+343,344,36,Male,United States,Iowa,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,-1,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+345,346,25,Female,United States,Washington,0,Yes,1,26-100,1,Yes,Yes,No,No,1,Sometimes,No,Yes,No,No,Don't know,No,Some of them,Yes,No,No,-1
+346,347,23,Male,United States,Alabama,0,Yes,1,100-500,0,Don't know,Don't know,Maybe,No,1,Sometimes,No,No,No,No,Don't know,No,Yes,Yes,Yes,No,"YOU MAY WANT TO THROW OUT MY ENTRY.
+
+I answered all of these questions with the assumption that Attention Deficit Disorder is considered a ""mental illness"", and with ADD in mind."
+347,348,54,Male,United States,California,0,Yes,1,More than 1000,1,Don't know,Don't know,No,No,1,Never,No,No,Yes,Yes,Don't know,No,No,Yes,No,No,-1
+348,349,22,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,Sometimes,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+349,350,25,non-binary,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,2,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+351,352,27,Male,United States,Massachusetts,0,No,1,More than 1000,1,Yes,Yes,No,No,2,Sometimes,No,Yes,Yes,Yes,Don't know,No,No,No,Yes,No,-1
+353,354,26,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,1,Often,No,Not sure,Don't know,Yes,Don't know,Maybe,Some of them,No,No,No,-1
+355,356,31,Male,United States,California,0,No,1,500-1000,0,No,Yes,No,No,0,Sometimes,No,Yes,No,Don't know,Don't know,No,Some of them,No,No,No,-1
+356,357,33,Male,United States,Indiana,0,Yes,1,26-100,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+357,358,34,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Yes,No,Maybe,1,Sometimes,No,Yes,Don't know,Yes,Don't know,Maybe,No,No,No,No,-1
+358,359,34,Male,United States,Washington,0,No,1,100-500,1,No,Don't know,No,Yes,1,Sometimes,Yes,No,No,No,Somewhat easy,Yes,Some of them,Some of them,Maybe,No,-1
+360,361,33,Female,United States,Washington,0,No,0,6-25,1,No,Don't know,No,No,1,-1,No,No,No,No,Somewhat difficult,Maybe,Some of them,Some of them,No,No,-1
+363,364,32,Male,United States,Michigan,0,Yes,1,More than 1000,0,Yes,Yes,No,No,2,Rarely,No,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Yes,No,-1
+364,365,329,Male,United States,Ohio,0,No,1,6-25,1,Yes,Don't know,No,No,0,Often,Yes,Yes,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+365,366,28,Male,United States,Georgia,0,Yes,1,More than 1000,1,Don't know,Don't know,No,Maybe,0,Sometimes,No,Not sure,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,-1
+366,367,35,Male,United States,California,0,Yes,0,More than 1000,1,Yes,Yes,No,No,1,-1,No,No,Yes,Yes,Very easy,No,Some of them,Yes,No,No,-1
+367,368,36,Male,United States,-1,0,Yes,1,100-500,1,No,Yes,No,No,1,Often,No,Yes,No,No,Very easy,No,Some of them,Some of them,No,No,-1
+368,369,21,Male,United States,Indiana,0,Yes,1,100-500,1,Yes,Yes,Maybe,No,1,Rarely,No,No,No,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+370,371,22,Female,United States,Washington,0,No,0,More than 1000,1,Yes,Yes,No,No,2,-1,No,No,Yes,Yes,Somewhat easy,No,No,Some of them,No,No,-1
+371,372,41,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Often,No,No,Yes,Yes,Somewhat difficult,Maybe,Yes,Some of them,Maybe,Yes,-1
+372,373,55,Male,United States,Pennsylvania,0,Yes,1,More than 1000,1,Yes,Yes,No,No,2,Rarely,No,Yes,Yes,Yes,Very easy,No,Yes,Yes,No,No,"My refer to the ""mental health issue"" of depression.  I might answer differently if I was talking about a ""more serious"" issue like schizophrenia"
+373,374,32,Female,United States,Washington,0,No,1,26-100,1,Yes,Yes,No,No,2,Sometimes,No,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Maybe,No,"My employer does what they can providing a wellness program and pointing it out after particularly stressful times. But the interaction between the wellness program and the medical insurance is unpleasant, and finding a long-term therapist / psychiatrist covered by insurance is amazingly difficult. My current lack of active treatment is due to insurance friction more than workplace friction."
+374,375,21,Female,United States,California,0,Yes,1,26-100,1,Don't know,Don't know,No,No,1,Rarely,No,Not sure,Don't know,No,Somewhat easy,Yes,Some of them,No,Yes,No,-1
+375,376,45,Male,United States,Massachusetts,0,No,1,26-100,1,Yes,Don't know,No,No,1,Never,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,Maybe,No,-1
+376,377,27,Female,United States,Washington,0,No,1,More than 1000,1,Yes,Yes,No,Maybe,0,Rarely,No,Yes,No,No,Don't know,Yes,No,No,No,No,-1
+377,378,25,Female,United States,Washington,0,Yes,1,26-100,1,Don't know,Don't know,No,No,2,Sometimes,Yes,No,No,No,Don't know,Maybe,Some of them,Yes,No,No,-1
+378,379,34,Female,United States,New York,0,Yes,1,More than 1000,0,Yes,Yes,No,Maybe,2,Rarely,No,Yes,Yes,Yes,Very difficult,Maybe,Some of them,Some of them,No,No,I work for a university.
+379,380,26,Female,United States,California,0,Yes,1,More than 1000,1,Yes,Yes,No,No,1,Never,No,Yes,No,Yes,Don't know,Maybe,No,No,No,No,-1
+381,382,27,Male,United States,California,0,No,1,More than 1000,1,Yes,Yes,No,No,2,Rarely,No,No,Yes,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+382,383,31,Male,United States,Indiana,0,Yes,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,Yes,No,No,No,Don't know,No,Yes,Yes,No,No,-1
+384,385,26,Male,United States,Nevada,0,No,1,6-25,1,Don't know,Don't know,No,Yes,0,Sometimes,No,No,No,No,Don't know,Yes,Some of them,No,No,No,-1
+385,386,27,Female,United States,Colorado,0,Yes,1,More than 1000,1,Yes,Don't know,No,Maybe,1,Rarely,Yes,Yes,No,Don't know,Don't know,Maybe,No,Yes,No,No,-1
+388,389,25,Female,United States,California,0,No,1,6-25,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,No,Somewhat difficult,Yes,Some of them,No,Maybe,No,-1
+391,392,40,Female,United States,Pennsylvania,0,Yes,1,More than 1000,0,Yes,Don't know,No,Maybe,1,Rarely,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,No,-1
+392,393,31,Male,United States,South Carolina,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,Never,No,No,No,Don't know,Somewhat easy,Yes,Some of them,No,No,No,-1
+394,395,24,Female,United States,Texas,0,Yes,0,500-1000,0,No,No,No,Maybe,0,-1,No,No,No,No,Very difficult,Yes,No,No,Maybe,Yes,-1
+395,396,29,Male,United States,Texas,0,No,0,More than 1000,0,Yes,Don't know,No,No,1,Never,No,Not sure,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+398,399,32,Female,United States,Alabama,0,No,0,100-500,1,Don't know,Don't know,No,No,1,Never,No,Not sure,No,No,Don't know,Maybe,No,Some of them,Maybe,No,-1
+400,401,26,Male,United States,Oregon,0,Yes,1,6-25,1,Yes,Don't know,No,No,0,Often,No,Yes,No,No,Somewhat difficult,Maybe,Some of them,Yes,No,No,-1
+401,402,28,Male,United States,New Jersey,0,Yes,1,26-100,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+402,403,23,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,0,-1,No,No,No,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+403,404,35,Male,United States,California,0,Yes,1,100-500,1,Yes,Don't know,No,Maybe,0,Sometimes,No,Yes,No,No,Very difficult,Maybe,Some of them,Some of them,Maybe,Yes,"I'm troubled by the way that our hiring process tends to filter out non-neurotypicals of all stripes. Competent people who ""act a little funny"" can be hard to hire."
+405,406,26,Male,United States,California,0,Yes,0,6-25,1,Yes,Yes,Maybe,No,0,-1,No,Yes,No,Yes,Very easy,No,Some of them,Yes,Maybe,No,-1
+406,407,33,Male,United States,New Hampshire,0,Yes,1,26-100,1,Yes,Don't know,No,Maybe,2,Never,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,Some of them,No,No,-1
+407,408,33,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,2,-1,Yes,No,Don't know,Don't know,Don't know,Yes,Some of them,No,Maybe,No,-1
+410,411,33,Male,United States,Ohio,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Often,Yes,Yes,No,No,Somewhat easy,Yes,No,No,No,No,-1
+411,412,31,Female,United States,Ohio,0,Yes,1,More than 1000,0,Don't know,Don't know,No,Maybe,0,Rarely,No,Not sure,No,Don't know,Very difficult,Yes,No,No,Maybe,No,-1
+412,413,21,Male,United States,Massachusetts,0,Yes,0,More than 1000,1,Don't know,Don't know,No,No,1,Never,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Some of them,Maybe,Yes,-1
+414,415,26,Female,United States,Oklahoma,0,No,1,100-500,1,Don't know,Don't know,No,No,2,Sometimes,Yes,Not sure,Don't know,Don't know,Somewhat difficult,No,Some of them,Some of them,No,No,-1
+415,416,30,Male,United States,California,0,Yes,0,6-25,1,Don't know,Don't know,No,No,1,Often,No,No,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,No,No,-1
+419,420,55,Male,United States,Idaho,0,Yes,1,1-5,1,No,Don't know,No,Maybe,0,Sometimes,Yes,Yes,No,Don't know,Don't know,Yes,No,No,No,Yes,-1
+424,425,28,Female,United States,New York,0,No,1,More than 1000,0,Yes,Don't know,No,No,1,Rarely,No,Yes,No,Don't know,Don't know,Maybe,No,No,No,No,-1
+425,426,21,Male,United States,California,0,No,0,6-25,0,Don't know,Yes,Maybe,No,2,Sometimes,No,Not sure,No,Yes,Don't know,No,Some of them,Some of them,Maybe,No,-1
+426,427,24,Male,United States,Texas,0,Yes,1,100-500,1,No,Don't know,No,No,0,Sometimes,No,Yes,No,No,Somewhat difficult,Yes,Some of them,Some of them,Maybe,Yes,-1
+427,428,26,Female,United States,Maryland,0,No,0,More than 1000,0,Yes,Don't know,No,No,1,-1,No,Not sure,Yes,Don't know,Don't know,Maybe,Some of them,No,No,No,-1
+428,429,23,Male,United States,Indiana,0,No,0,More than 1000,0,Yes,Don't know,No,No,1,-1,No,No,No,No,Don't know,No,Yes,No,Yes,No,-1
+429,430,24,Female,United States,Oregon,0,No,0,More than 1000,1,Yes,Yes,Yes,No,2,-1,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Some of them,Yes,No,-1
+431,432,24,Female,United States,New York,0,Yes,1,6-25,1,No,Don't know,No,No,2,Rarely,No,No,No,No,Very easy,Yes,No,Some of them,Yes,No,-1
+433,434,34,Male,United States,New Jersey,0,No,0,26-100,1,Don't know,Don't know,No,No,1,Sometimes,No,No,No,No,Don't know,Maybe,Yes,Yes,Maybe,No,-1
+434,435,27,Female,United States,California,0,No,1,26-100,1,Don't know,Don't know,No,Maybe,1,Sometimes,No,Not sure,No,No,Somewhat difficult,Maybe,Some of them,Some of them,No,No,"I talked to a psychiatrist once about taking medical leave for mental health issues, with his referral. He was willing to help but warned me that I may not want to, as he's seen that sort of thing follow people throughout their tech careers (word gets out, even if it's ""confidential"" at work). I've been terrified of bringing mental health up anywhere that coworkers or potential employers could see ever since."
+435,436,28,Male,United States,Tennessee,0,No,0,6-25,1,Don't know,Don't know,No,No,1,Never,No,No,No,Don't know,Don't know,No,Some of them,Yes,No,No,-1
+436,437,26,Male,United States,Washington,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,-1,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,No,Yes,-1
+438,439,23,Female,United States,Massachusetts,0,No,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+439,440,29,Male,United States,Pennsylvania,0,Yes,1,1-5,1,Yes,Yes,Maybe,No,2,Rarely,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Maybe,No,-1
+441,442,36,Male,United States,Kentucky,0,No,0,More than 1000,1,Yes,Don't know,No,No,1,Rarely,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,-1
+442,443,41,Male,United States,Pennsylvania,0,No,1,More than 1000,1,Yes,Yes,Maybe,No,2,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,Yes,Yes,-1
+443,444,33,Female,United States,Massachusetts,0,No,0,100-500,1,Yes,Don't know,No,No,2,-1,Yes,No,Don't know,No,Don't know,No,Some of them,Yes,No,No,-1
+445,446,39,Male,United States,California,0,Yes,0,More than 1000,1,Yes,Don't know,No,No,0,Often,No,No,No,Don't know,Don't know,Yes,Some of them,Some of them,Maybe,Yes,-1
+446,447,34,Male,United States,Vermont,0,Yes,0,More than 1000,1,Yes,Don't know,No,No,1,-1,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,Yes,-1
+447,448,26,Female,United States,California,0,No,1,100-500,1,Yes,Don't know,No,Maybe,0,Sometimes,No,Yes,No,No,Somewhat difficult,Yes,Some of them,Some of them,No,Yes,-1
+448,449,24,Male,United States,Arizona,0,No,1,26-100,1,Yes,Don't know,No,No,1,Rarely,No,Yes,Yes,No,Don't know,No,Some of them,Yes,No,No,-1
+451,452,40,Genderqueer,United States,Virginia,0,Yes,0,More than 1000,1,Yes,Yes,No,Maybe,2,Never,No,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,Maybe,No,-1
+452,453,30,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Often,No,Yes,Yes,No,Very difficult,Yes,Some of them,No,No,Yes,-1
+453,454,34,Male,United States,California,0,No,1,6-25,1,Don't know,Don't know,No,Yes,1,Sometimes,No,Not sure,No,No,Don't know,Yes,Some of them,No,No,No,"Now at starutp.  Previously worked at big tech company which was actually quite good at supporting mental health issues.  Still wouldn't share with bosses/other employees though, as there remains a strong negative stigma."
+454,455,27,Male,United States,Oregon,0,Yes,1,100-500,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,Don't know,Don't know,Yes,No,No,Yes,No,-1
+455,456,36,Male,United States,Michigan,0,No,0,More than 1000,1,Don't know,Yes,Maybe,No,1,Sometimes,No,No,No,No,Somewhat easy,No,Yes,Yes,Yes,No,-1
+459,460,37,Male,United States,Oregon,0,No,0,500-1000,1,Yes,Don't know,No,Maybe,1,-1,No,No,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+461,462,33,Female,United States,California,0,No,0,500-1000,1,Yes,Don't know,No,No,2,Never,No,Not sure,Yes,Yes,Very easy,Maybe,Some of them,Yes,No,No,"I currently have the best managers I've ever worked with. I don't have any issues, but one of my coworkers recently did, and it was handled extremely well. "
+462,463,28,Male,United States,Utah,0,No,0,6-25,1,No,Don't know,No,Maybe,1,Sometimes,Yes,Yes,No,No,Somewhat easy,Yes,Some of them,No,No,No,-1
+463,464,26,Female,United States,California,0,Yes,0,26-100,1,Don't know,Don't know,No,Maybe,0,Never,No,Not sure,No,No,Somewhat difficult,Maybe,Some of them,No,Maybe,No,-1
+464,465,27,Male,United States,Texas,0,Yes,1,6-25,1,Don't know,Don't know,No,No,2,Sometimes,Yes,No,Yes,Don't know,Somewhat easy,Yes,Some of them,Yes,Maybe,No,-1
+466,467,57,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Rarely,No,Yes,No,No,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+470,471,31,Male,United States,Oregon,0,No,1,100-500,1,Yes,Yes,No,No,2,Sometimes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,No,No,-1
+471,472,58,Male,United States,California,0,No,1,More than 1000,1,Yes,Yes,No,No,2,Rarely,No,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Yes,No,-1
+472,473,29,Male,United States,Ohio,0,No,0,6-25,1,Don't know,Don't know,No,No,0,Sometimes,No,No,No,No,Very difficult,Yes,No,No,Maybe,No,-1
+474,475,34,Male,United States,Ohio,0,No,0,6-25,1,Don't know,Don't know,No,No,1,Sometimes,Yes,No,No,No,Very difficult,Maybe,Some of them,Yes,Maybe,No,-1
+475,476,57,Male,United States,California,0,No,1,More than 1000,1,Yes,Don't know,No,Maybe,1,Sometimes,No,Not sure,Yes,Yes,Don't know,Maybe,No,No,Maybe,No,-1
+479,480,30,Female,United States,New York,0,No,0,100-500,1,Don't know,Don't know,No,No,1,-1,No,Not sure,No,No,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+480,481,23,Male,United States,Virginia,0,No,0,26-100,0,Don't know,Don't know,Maybe,No,2,Never,No,Not sure,Don't know,Don't know,Don't know,No,Yes,Yes,Yes,No,-1
+481,482,43,Male,United States,California,0,No,1,More than 1000,1,Yes,Yes,No,Maybe,1,Sometimes,No,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Yes,No,-1
+483,484,29,Male,United States,Illinois,0,No,1,6-25,1,Yes,Don't know,No,No,1,Rarely,No,Yes,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+484,485,48,Male,United States,Texas,0,No,0,6-25,1,Don't know,Don't know,No,No,1,Never,No,No,No,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+486,487,28,Female,United States,New York,0,Yes,1,26-100,1,Don't know,Don't know,No,Maybe,1,Sometimes,No,Not sure,No,No,Don't know,Yes,Some of them,No,Maybe,No,-1
+490,491,31,Male,United States,California,0,No,0,More than 1000,1,Yes,Yes,No,No,2,-1,No,Not sure,Don't know,Don't know,Don't know,No,No,Some of them,No,No,-1
+491,492,30,Male,United States,Pennsylvania,0,No,0,100-500,0,Don't know,Don't know,No,No,1,Rarely,No,Not sure,No,No,Don't know,No,Some of them,Some of them,No,No,-1
+494,495,25,Male,United States,Washington,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No,-1
+495,496,23,Female,United States,New York,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,2,Often,No,Not sure,Don't know,No,Don't know,Maybe,Some of them,Some of them,No,Yes,-1
+496,497,36,Male,United States,Texas,0,No,1,More than 1000,0,Yes,Don't know,No,Maybe,0,Sometimes,No,Not sure,No,No,Somewhat difficult,Yes,Some of them,No,No,Yes,"Stigma is the worst. People first language is a small step, but we can't get that right."
+500,501,38,Female,United States,Arizona,0,No,1,26-100,1,Yes,Yes,No,Maybe,0,-1,No,Yes,No,No,Don't know,Maybe,No,No,No,No,-1
+504,505,35,Female,United States,Ohio,0,No,1,100-500,1,No,Don't know,No,Maybe,0,Sometimes,No,Yes,No,No,Don't know,Yes,No,No,Maybe,No,-1
+505,506,46,Male,United States,California,0,No,1,More than 1000,1,Yes,Don't know,No,No,2,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,No,No,No,-1
+506,507,42,Male,United States,Kansas,0,No,0,100-500,0,Yes,Don't know,Maybe,No,0,Never,No,No,Yes,No,Very difficult,Maybe,Yes,Yes,Yes,No,-1
+508,509,47,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,2,Sometimes,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No,-1
+509,510,22,Male,United States,California,0,No,0,More than 1000,1,Yes,Yes,No,No,2,-1,No,Not sure,Yes,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+510,511,33,Female,United States,New York,0,No,1,500-1000,1,Yes,Don't know,No,No,1,Sometimes,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Some of them,No,No,-1
+511,512,25,Female,United States,Washington,0,No,0,6-25,1,No,No,No,No,2,Sometimes,No,No,No,No,Somewhat easy,Maybe,Some of them,No,No,No,-1
+512,513,29,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,-1,No,Not sure,No,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+513,514,39,Male,United States,Washington,0,No,0,26-100,1,Yes,Yes,No,No,2,Never,No,Yes,Yes,Yes,Very easy,No,Yes,Yes,No,No,"I work for an extremely supportive company, and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return."
+514,515,38,Male,United States,Virginia,0,Yes,1,More than 1000,1,Yes,Yes,No,No,0,Sometimes,No,Not sure,Yes,Yes,Don't know,Yes,No,No,No,No,-1
+515,516,43,Male,United States,North Carolina,0,No,0,6-25,1,Don't know,Don't know,No,No,1,-1,Yes,No,No,Don't know,Don't know,Maybe,Some of them,No,No,No,-1
+516,517,46,Male,United States,Ohio,0,No,1,500-1000,1,Yes,Yes,No,No,2,Rarely,Yes,Not sure,Yes,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+517,518,38,Female,United States,Pennsylvania,0,Yes,1,More than 1000,0,Yes,Yes,No,No,0,Sometimes,No,Yes,Yes,Yes,Very easy,Maybe,Yes,Yes,No,Yes,-1
+520,521,62,Male,United States,California,0,No,0,More than 1000,1,Yes,Don't know,Maybe,No,2,Never,No,Yes,Don't know,Yes,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+521,522,23,Female,United States,Texas,0,No,0,More than 1000,0,Don't know,Yes,No,Maybe,1,-1,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+522,523,35,Male,United States,Arizona,0,No,0,More than 1000,0,No,Don't know,No,Maybe,0,-1,No,No,No,No,Don't know,Maybe,No,No,No,No,-1
+525,526,41,Female,United States,-1,0,Yes,1,500-1000,1,Yes,Yes,No,Maybe,2,Rarely,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Some of them,No,No,-1
+528,529,29,Male,United States,North Carolina,0,No,1,6-25,1,Yes,Yes,No,No,2,Sometimes,No,Yes,No,Yes,Very easy,No,No,Some of them,No,No,-1
+536,537,39,Male,United States,Wisconsin,0,Yes,1,26-100,1,Yes,Don't know,No,No,0,Often,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Yes,No,No,-1
+537,538,26,Male,United States,California,0,Yes,1,More than 1000,1,Don't know,Don't know,No,No,0,Never,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,-1
+539,540,22,Female,United States,California,0,Yes,1,500-1000,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,Don't know,Don't know,No,Some of them,Some of them,No,Yes,-1
+540,541,26,Female,United States,Minnesota,0,Yes,1,100-500,0,Don't know,Don't know,No,No,0,Often,No,No,No,No,Somewhat difficult,Maybe,No,No,Maybe,No,-1
+541,542,31,Female,United States,Pennsylvania,0,Yes,1,100-500,1,Yes,Yes,No,No,2,Rarely,No,Yes,No,No,Somewhat easy,No,Yes,Yes,No,No,-1
+543,544,28,Female,United States,California,0,Yes,1,100-500,1,Yes,Don't know,No,Yes,0,Often,Yes,No,No,Don't know,Don't know,Yes,Some of them,Some of them,No,Yes,-1
+547,548,36,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,No,No,Yes,Somewhat difficult,Yes,Some of them,Yes,Yes,No,-1
+548,549,21,Male,United States,California,0,Yes,0,More than 1000,1,Yes,Yes,No,No,2,-1,No,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+550,551,25,Female,United States,California,0,Yes,0,500-1000,0,Don't know,Don't know,No,No,1,-1,No,Not sure,No,No,Don't know,Maybe,Some of them,Some of them,Maybe,No,"I'm not aware of anyone with mental health issues at work, it's definitely not something that's discussed publicly. There's also a lot of other personal info I don't know about my coworkers so it may just be that we tend not to talk about personal issues."
+557,558,33,Male,United States,New York,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,No,No,Don't know,Don't know,Don't know,Yes,Some of them,No,Maybe,No,"I'm afraid I haven't seen mental health issues arise at work yet. They are very accommodating with maternity leave, but I don't know how that translates to anything else."
+559,560,24,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,Maybe,2,-1,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+561,562,27,Male,United States,Oregon,0,Yes,1,100-500,1,Don't know,Don't know,No,No,2,Sometimes,Yes,No,No,Don't know,Don't know,No,Some of them,No,No,No,-1
+563,564,36,Male,United States,Colorado,0,No,1,26-100,1,Don't know,Don't know,No,No,1,Rarely,No,Not sure,No,Don't know,Don't know,No,Some of them,Some of them,No,No,-1
+565,566,28,Male,United States,Georgia,0,No,1,More than 1000,1,Yes,Yes,No,No,0,Sometimes,No,Yes,No,No,Somewhat difficult,Maybe,Some of them,No,Maybe,No,-1
+566,567,39,Male,United States,Oregon,0,No,1,500-1000,1,Yes,Yes,No,Maybe,1,Sometimes,No,Not sure,Yes,Don't know,Don't know,Yes,Yes,Yes,Maybe,No,-1
+567,568,32,Male,United States,California,0,No,1,More than 1000,1,Yes,Don't know,Maybe,No,1,Sometimes,No,No,No,Yes,Somewhat easy,No,Yes,Some of them,Yes,No,-1
+568,569,31,Male,United States,California,0,Yes,0,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,Not sure,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Mental health issue I have dealt with: acute depression
+569,570,38,Male,United States,Pennsylvania,0,Yes,1,100-500,1,Don't know,Don't know,No,Maybe,1,Sometimes,No,No,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+570,571,23,Male,United States,California,0,Yes,1,1-5,1,No,Don't know,No,No,2,Rarely,No,Yes,No,No,Don't know,Maybe,Some of them,Yes,No,No,-1
+571,572,42,Male,United States,California,0,No,1,More than 1000,1,Yes,Yes,Maybe,Maybe,1,Often,No,Yes,Yes,Yes,Somewhat easy,Maybe,Yes,Yes,Maybe,No,-1
+572,573,27,Female,United States,New York,0,No,0,500-1000,1,Don't know,Don't know,No,No,2,Sometimes,No,Not sure,Don't know,Yes,Don't know,No,Some of them,Yes,No,No,-1
+573,574,26,Female,United States,Massachusetts,0,Yes,1,26-100,1,Yes,Yes,No,No,0,Sometimes,No,Yes,No,No,Somewhat difficult,No,Yes,Yes,No,Yes,-1
+574,575,50,Male,United States,-1,0,No,0,26-100,1,No,Don't know,No,No,0,Never,Yes,Yes,No,No,Don't know,No,No,No,Maybe,No,-1
+575,576,37,Male,United States,Pennsylvania,0,Yes,0,26-100,1,Don't know,Don't know,No,No,2,Never,No,No,No,Don't know,Somewhat easy,No,Yes,Yes,No,No,-1
+576,577,23,Male,United States,Rhode Island,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,No,No,Don't know,No,Don't know,No,Yes,Yes,Maybe,No,-1
+577,578,33,Male,United States,Michigan,0,Yes,0,6-25,1,Don't know,Yes,No,No,2,Sometimes,Yes,Not sure,No,No,Very easy,No,Some of them,Yes,No,No,-1
+579,580,34,Male,United States,Illinois,0,Yes,1,26-100,0,Yes,Don't know,No,No,1,Sometimes,Yes,No,No,No,Don't know,Maybe,Some of them,Some of them,Maybe,No,Thanks for doing this. It will help end the stigma!
+580,581,41,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,Maybe,1,Often,No,No,No,No,Don't know,Maybe,Some of them,Some of them,No,Yes,-1
+581,582,50,Male,United States,Oregon,0,Yes,0,100-500,1,Don't know,Don't know,Maybe,No,1,-1,Yes,No,No,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+583,584,35,Male,United States,Indiana,0,No,0,6-25,1,No,Yes,Maybe,No,2,Never,No,Yes,No,No,Very easy,No,Some of them,Yes,Maybe,No,-1
+585,586,40,Female,United States,Massachusetts,0,No,0,26-100,0,Don't know,Don't know,Maybe,Maybe,1,Never,No,Not sure,No,No,Somewhat easy,Maybe,Yes,Yes,Maybe,No,-1
+587,588,29,Female,United States,Michigan,0,No,0,26-100,1,Yes,Yes,No,No,1,Never,No,Yes,Yes,No,Don't know,Maybe,Some of them,Some of them,Maybe,Yes,-1
+588,589,31,Male,United States,Ohio,0,Yes,1,6-25,1,No,Don't know,No,No,1,Sometimes,No,No,No,No,Somewhat easy,Maybe,Yes,Yes,Maybe,No,-1
+589,590,43,Male,United States,Ohio,0,No,1,6-25,1,No,Don't know,No,No,1,Sometimes,No,Yes,No,No,Somewhat easy,No,Yes,Yes,Maybe,No,-1
+590,591,34,Male,United States,New Hampshire,0,Yes,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,Yes,Yes,No,No,Don't know,Maybe,Some of them,Some of them,Yes,Yes,-1
+591,592,29,Male,United States,Ohio,0,Yes,1,26-100,1,Don't know,No,No,No,1,Sometimes,No,No,No,No,Somewhat difficult,Yes,Some of them,Some of them,Maybe,No,"It has come to interfere with work as life progresses.
+Between burn out, and enduring more of the work, and balancing a family. Changes in my mental health have a larger pond to make ripples in."
+593,594,41,Male,United States,Tennessee,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,Not sure,Yes,Yes,Don't know,Maybe,Some of them,Some of them,No,No,-1
+594,595,29,Male,United States,Oregon,0,Yes,0,100-500,1,Yes,Don't know,No,No,2,Never,No,Yes,Yes,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+595,596,23,Male,United States,Pennsylvania,0,No,0,100-500,1,Yes,Don't know,No,No,2,Rarely,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Some of them,No,No,-1
+596,597,24,Female,United States,-1,0,Yes,1,100-500,1,Yes,Don't know,No,Maybe,0,Sometimes,No,Not sure,No,No,Somewhat difficult,Yes,No,No,No,Yes,-1
+597,598,31,Male,United States,New York,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,Yes,No,No,Don't know,Don't know,Yes,No,No,Maybe,No,-1
+598,599,43,Male,United States,Washington,0,No,0,500-1000,1,Don't know,Don't know,No,No,2,-1,Yes,Not sure,Don't know,Don't know,Don't know,No,Yes,Yes,No,No,-1
+599,600,31,Male,United States,New York,0,Yes,1,100-500,1,No,Don't know,No,Yes,0,Rarely,No,No,No,Don't know,Somewhat difficult,Yes,Some of them,No,No,Yes,-1
+600,601,29,Male,United States,California,0,Yes,0,100-500,1,Yes,Don't know,No,No,1,Often,No,Yes,Yes,Yes,Don't know,No,Some of them,Yes,No,No,-1
+602,603,33,Male,United States,Wisconsin,0,Yes,1,100-500,0,Yes,Yes,No,Yes,0,Sometimes,No,Not sure,No,No,Somewhat difficult,Yes,No,No,No,No,-1
+604,605,27,Male,United States,Pennsylvania,0,No,0,More than 1000,1,Yes,Yes,No,Maybe,0,-1,No,Not sure,Don't know,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+605,606,32,Male,United States,Michigan,0,No,0,100-500,1,No,Don't know,No,Maybe,0,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+606,607,50,Male,United States,Wyoming,0,No,0,1-5,1,Don't know,Don't know,No,Maybe,1,Sometimes,Yes,No,No,Don't know,Don't know,Yes,Some of them,Some of them,Maybe,No,"I work for a very small firm that doesn't really have a dedicated H/R person. 
+
+Also for the question:
+
+""If you have a mental health condition, do you feel that it interferes with your work?""
+
+...I don't have a diagnosed mental health condition but I suspect I might have some slight depression issues. Definitely have Imposter Syndrome."
+607,608,24,Male,United States,Kentucky,0,No,0,26-100,0,Don't know,Don't know,No,Yes,0,Never,No,Not sure,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+608,609,27,Male,United States,New York,0,No,0,26-100,1,Don't know,Don't know,No,No,2,-1,No,No,No,No,Don't know,No,Yes,Yes,Maybe,No,-1
+610,611,32,Male,United States,Texas,0,No,1,6-25,1,No,Yes,Maybe,No,2,Sometimes,No,Yes,No,No,Somewhat easy,No,Some of them,Yes,Maybe,No,"I went through a divorce and was pretty depressed, I went to therapy and my boss (one of the owners) was extremely supportive. I'm not sure I would have got through that rough time with out my co-workers and boss."
+612,613,37,Male,United States,Washington,0,No,0,More than 1000,0,Don't know,Don't know,No,No,0,Often,No,No,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+614,615,29,Male,United States,Washington,0,No,0,More than 1000,1,Yes,Don't know,No,Maybe,1,Rarely,No,No,No,No,Very easy,Yes,Some of them,No,No,No,-1
+616,617,35,Male,United States,Michigan,0,No,0,26-100,1,Yes,Don't know,Maybe,No,2,Never,No,No,Yes,Don't know,Don't know,No,Some of them,Some of them,Maybe,No,-1
+617,618,35,Male,United States,Maryland,0,Yes,1,100-500,0,Yes,Yes,No,No,0,Rarely,Yes,Yes,No,No,Very difficult,Yes,Some of them,No,Maybe,No,"I'm diagnosed with Bipolar Disorder. My benefits for mental health exist but are terrible. The deductible is $800. I see a therapist once or twice a month at the cost of $150. The insurance company only values it at $40. My psychiatrist is $180 for 15 minutes. The insurance company values it at $80. 
+
+It is IMPOSSIBLE to hit my deductible. I don't even bother making the claims."
+622,623,31,Female,United States,Washington,0,No,1,26-100,1,Yes,Don't know,No,No,1,Often,Yes,Yes,No,No,Very easy,Maybe,Some of them,Some of them,Yes,No,-1
+623,624,23,Female,United States,California,0,Yes,1,More than 1000,1,Yes,Yes,No,Maybe,1,Sometimes,No,Yes,Yes,Yes,Somewhat easy,Yes,No,No,No,No,-1
+624,625,31,Female,United States,Oregon,0,Yes,1,100-500,1,Don't know,Don't know,No,No,1,Sometimes,No,No,No,No,Don't know,No,Some of them,Some of them,No,No,-1
+625,626,28,Female,United States,California,0,Yes,1,500-1000,1,Yes,Don't know,No,No,0,Rarely,No,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,-1
+629,630,28,Male,United States,Michigan,0,Yes,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,Yes,Not sure,No,Don't know,Don't know,Yes,Some of them,Some of them,No,Yes,-1
+631,632,56,Male,United States,Massachusetts,0,Yes,1,6-25,1,Yes,Don't know,No,Maybe,1,Rarely,No,Yes,No,No,Don't know,Yes,Some of them,Some of them,No,No,-1
+633,634,34,Female,United States,California,0,No,1,100-500,1,Yes,Don't know,No,No,2,Sometimes,Yes,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,No,No,-1
+643,644,57,Male,United States,California,0,No,0,26-100,1,Yes,Yes,No,Maybe,1,Never,No,Yes,No,Yes,Somewhat difficult,Yes,No,No,Maybe,Yes,-1
+650,651,39,Male,United States,Florida,0,No,0,More than 1000,0,Don't know,Don't know,No,No,1,Rarely,Yes,No,Yes,Yes,Don't know,No,Some of them,Some of them,Maybe,No,"I mostly suffer from social anxiety, which keeps me from attending conferences. In my small dev group a big problem is a supervisor who's a workaholic and will never say no when asked to do something, so he's doing the job of at least two ppl (poorly) and working crazy hours, setting the tone for the test of us that work/life balance isn't important."
+654,655,32,Male,United States,Washington,0,No,1,500-1000,0,Yes,Don't know,No,No,2,Never,No,Not sure,Yes,Yes,Very easy,Maybe,No,No,No,No,-1
+662,663,32,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,Maybe,1,Never,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+671,672,23,Male,United States,North Carolina,0,Yes,0,6-25,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+675,676,28,Male,United States,Illinois,0,No,1,26-100,0,Don't know,Don't know,No,No,1,Sometimes,Yes,Not sure,No,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+677,678,29,Female,United States,Ohio,0,Yes,1,6-25,1,Don't know,Don't know,No,No,1,Rarely,No,No,No,No,Don't know,Yes,No,No,No,No,-1
+679,680,45,Male,United States,Virginia,0,No,1,1-5,1,Yes,Don't know,No,No,2,Often,Yes,Not sure,No,Yes,Very easy,No,Yes,Yes,Maybe,No,-1
+681,682,38,Male,United States,Minnesota,0,No,1,More than 1000,0,Yes,Don't know,No,No,1,Sometimes,No,Yes,Yes,Yes,Don't know,No,Some of them,Yes,No,No,-1
+682,683,19,Trans woman,United States,Missouri,0,Yes,1,26-100,0,Don't know,Don't know,No,Maybe,0,Often,No,Not sure,No,No,Somewhat difficult,Maybe,No,No,Maybe,No,-1
+686,687,33,Female,United States,North Carolina,0,Yes,1,More than 1000,1,Yes,Yes,No,No,2,Rarely,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,No,No,-1
+687,688,49,Male,United States,New York,0,Yes,1,100-500,1,Yes,Yes,No,Maybe,2,Sometimes,No,Not sure,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,No,No,-1
+688,689,28,Male,United States,New Mexico,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,Yes,No,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+697,698,39,Female,United States,Texas,0,No,0,More than 1000,0,No,Don't know,No,Maybe,0,-1,Yes,Yes,No,No,Very difficult,Yes,No,No,Maybe,No,-1
+699,700,29,Male,United States,South Carolina,0,No,0,6-25,1,No,Don't know,No,Maybe,1,-1,No,No,No,Don't know,Somewhat difficult,Maybe,Some of them,No,No,No,-1
+700,701,30,Male,United States,Florida,0,No,0,100-500,0,Yes,Don't know,No,No,1,-1,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,No,No,-1
+702,703,37,Male,United States,California,0,Yes,1,100-500,1,Yes,Yes,No,No,1,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,Yes,Yes,No,No,-1
+703,704,23,Male,United States,Ohio,0,No,1,26-100,0,Yes,Yes,No,No,2,Often,No,Yes,Yes,No,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+704,705,43,Male,United States,Tennessee,0,Yes,1,26-100,0,Yes,Don't know,No,No,0,Sometimes,No,Not sure,No,Yes,Somewhat easy,Yes,No,No,No,No,-1
+706,707,26,Male,United States,New York,0,No,0,26-100,1,Don't know,Don't know,No,Yes,0,Never,No,Not sure,No,No,Don't know,Yes,Some of them,No,No,No,-1
+708,709,37,Female,United States,Missouri,0,No,0,26-100,1,Don't know,Don't know,No,No,1,-1,Yes,Not sure,No,Don't know,Don't know,Yes,Some of them,No,No,No,-1
+709,710,29,Male,United States,New York,0,No,1,26-100,1,Yes,Yes,Maybe,No,2,Often,No,Yes,No,No,Very easy,No,Yes,Yes,Maybe,No,-1
+712,713,30,Male,United States,Tennessee,0,Yes,0,100-500,1,Don't know,Don't know,No,No,1,Never,No,No,No,Don't know,Very easy,No,Some of them,Yes,Maybe,No,-1
+713,714,29,Male,United States,Colorado,0,No,0,6-25,1,Yes,Yes,No,No,0,Never,No,Yes,No,Yes,Don't know,Maybe,Some of them,Some of them,No,No,-1
+719,720,27,Male,United States,Minnesota,0,No,0,26-100,1,Yes,Don't know,No,No,1,-1,No,Not sure,No,Don't know,Don't know,No,Yes,Yes,No,No,-1
+723,724,25,Male,United States,Missouri,0,Yes,1,6-25,1,Don't know,Don't know,No,No,0,Never,Yes,No,Yes,Don't know,Don't know,Yes,Some of them,Yes,No,No,-1
+724,725,33,Male,United States,Wyoming,0,Yes,1,1-5,0,No,Don't know,Maybe,No,1,Sometimes,No,Yes,No,No,Don't know,No,Some of them,Yes,Maybe,No,-1
+728,729,29,Male,United States,Minnesota,0,No,0,More than 1000,0,Don't know,Don't know,No,No,0,-1,No,Not sure,Don't know,Don't know,Don't know,No,Yes,Yes,No,No,-1
+732,733,29,Male,United States,Maryland,0,No,0,6-25,1,Don't know,Don't know,No,No,1,-1,Yes,Not sure,No,No,Very easy,No,Yes,Yes,No,No,-1
+733,734,31,Male,United States,Kentucky,0,No,0,26-100,0,Yes,Yes,No,No,1,-1,No,Yes,Yes,Yes,Don't know,No,Yes,Yes,No,No,-1
+734,735,5,Male,United States,Ohio,0,No,0,100-500,1,Don't know,Don't know,No,No,2,-1,No,Not sure,No,No,Somewhat easy,No,Yes,Yes,No,No,"We had a developer suffer from depression and pretty hard burnout, but he refused treatment, even when the company said we'd foot the bill. Eventually he had to be asked to resign, which was a shame. I don't know if we have any specific programs for mental health, but we're definitely on the lookout for those types of issues."
+736,737,43,Male,United States,New York,0,No,0,More than 1000,0,Yes,Yes,No,No,1,-1,No,Yes,Don't know,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+739,740,36,Male,United States,Tennessee,0,Yes,1,More than 1000,0,Don't know,Don't know,No,Maybe,1,Sometimes,Yes,No,Don't know,Don't know,Don't know,Yes,No,No,Maybe,No,-1
+743,744,31,Male,United States,Texas,0,Yes,1,26-100,1,Yes,Don't know,Maybe,No,1,Sometimes,No,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,Yes,No,-1
+744,745,36,Male,United States,Ohio,0,No,1,100-500,1,Yes,Don't know,Maybe,Maybe,1,Sometimes,Yes,Yes,No,No,Very difficult,Maybe,Some of them,Some of them,Maybe,No,I am a 15 year vet of the industry and I get 2 weeks of combined sick and vacation time a year and I have children to fit into that too. I've had heart problems from the stress. Fuck everything about startup culture.
+748,749,35,Male,United States,California,0,Yes,1,6-25,1,Yes,Yes,No,No,2,Rarely,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,No,No,"Since I am the CEO of my startup, some of the ""would you feel comfortable"" and ""do you know the policy"" questions are interesting.  Of course I feel comfortable, since no one can fire me, and I know the policies because I chose them!
+
+However, now I am curious if my employees know just how supportive the company would be of their mental health needs, and this survey is making me realize that we probably haven't done a great job communicating that to everyone.  Thanks for doing this."
+752,753,37,Male,United States,Michigan,0,Yes,1,100-500,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+754,755,36,Male,United States,California,0,No,0,More than 1000,1,Yes,Yes,No,No,2,Never,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,No,No,-1
+755,756,29,Female,United States,Oregon,0,Yes,1,26-100,0,Don't know,Don't know,No,No,1,Sometimes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+756,757,38,Female,United States,North Carolina,0,Yes,1,26-100,0,Yes,Don't know,No,No,1,Sometimes,No,Not sure,No,Don't know,Don't know,Maybe,No,No,No,No,"I work for the state, so the health plan is large and cumbersome.  I believe it covers most medical as a state benefit, but I haven't seen any promotion of it.  And it's not really the same as a tech company where I am.  We are an IT department, but hardly run like any tech company around."
+757,758,26,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,Maybe,0,Sometimes,No,No,Yes,Don't know,Somewhat difficult,Yes,No,No,Maybe,No,-1
+759,760,21,Male,United States,Illinois,0,No,1,More than 1000,0,No,No,No,No,0,Often,No,Yes,No,No,Don't know,Yes,Some of them,Some of them,Yes,Yes,I have Narcolepsy and have been fired from a job before for falling asleep standing up during a meeting. I was standing up in the back of the room so that i could pace and try to prevent myself from falling asleep. I still managed to fall asleep while standing and fell over against the wall. I was fired the next day. The worst part is this is a condition i had given months of notice about to my boss and i reminded her of it before the meeting. I worked at a hospital at the time. I would have thought that they would be more accommodating.
+761,762,37,Female,United States,California,0,Yes,1,26-100,0,Yes,Don't know,No,Maybe,2,Rarely,No,Yes,Yes,Yes,Don't know,Maybe,Yes,Some of them,Maybe,No,-1
+764,765,27,Female,United States,California,0,No,1,100-500,1,Don't know,Don't know,No,No,0,Sometimes,No,Not sure,Yes,Don't know,Somewhat easy,Yes,Some of them,No,Maybe,No,-1
+768,769,36,Female,United States,California,0,No,1,6-25,1,Yes,Don't know,No,Maybe,0,Never,Yes,No,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+776,777,43,Male,United States,Virginia,0,No,0,6-25,1,Don't know,Don't know,No,No,0,Sometimes,Yes,No,No,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+778,779,27,Female,United States,Washington,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,-1,No,Not sure,No,Yes,Don't know,Maybe,Some of them,Yes,No,No,-1
+781,782,33,Male,United States,Wisconsin,0,No,1,6-25,1,No,Yes,Yes,No,1,Sometimes,Yes,Yes,No,No,Somewhat difficult,No,Yes,Yes,Yes,No,-1
+784,785,25,Male,United States,California,0,No,0,6-25,1,Don't know,Don't know,No,No,1,-1,No,No,No,No,Don't know,No,Some of them,Yes,No,No,-1
+785,786,25,Male,United States,Nebraska,0,Yes,1,More than 1000,0,Yes,Yes,No,No,0,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,Some of them,No,Yes,-1
+787,788,25,Male,United States,Colorado,0,Yes,1,26-100,1,Yes,Yes,No,No,1,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+791,792,33,Male,United States,New York,0,No,1,More than 1000,1,Yes,Don't know,No,Maybe,1,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+792,793,37,Female,United States,Texas,0,No,1,6-25,1,Don't know,Yes,No,No,0,Often,Yes,Not sure,No,No,Somewhat difficult,Yes,Some of them,Some of them,Yes,Yes,-1
+793,794,35,Female,United States,Louisiana,0,No,1,100-500,0,Yes,Yes,No,Maybe,0,Sometimes,No,No,No,No,Very difficult,Yes,No,Some of them,Yes,Yes,"I work for the state government. While things are slowly changing regarding covering mental health with state employees, it's just not something that is acceptable in this kind of strict environment, so I have to be careful about what I say and how I say it. I often take mental health days, but have to call in with a physical illness because mental health problems are not acceptable excuses for using sick leave."
+794,795,22,Female,United States,Washington,0,Yes,1,More than 1000,1,Don't know,Don't know,No,Maybe,0,Sometimes,No,Not sure,Don't know,Don't know,Very difficult,Yes,Some of them,Some of them,Maybe,Yes,-1
+795,796,38,Male,United States,Michigan,0,No,0,26-100,1,Yes,Don't know,No,No,0,Never,No,Yes,No,No,Somewhat easy,Maybe,Some of them,Yes,Maybe,Yes,-1
+796,797,32,Female,United States,California,0,Yes,1,100-500,1,Yes,Don't know,No,No,1,Often,No,No,No,Don't know,Don't know,Yes,Some of them,Yes,No,No,-1
+799,800,35,Female,United States,California,0,No,1,100-500,1,Don't know,Don't know,No,No,2,Sometimes,Yes,No,Don't know,Don't know,Very easy,Maybe,Some of them,No,Maybe,No,"It might be safe to talk about it where I am now, but I don't know for sure and I err on the side of being over cautious. Struggle with depression and anxiety which sometimes affects my productivity, but I try to make up / cover up for it instead of being open about it."
+800,801,29,Male,United States,Maryland,0,No,0,100-500,0,Yes,Yes,No,Maybe,1,Never,No,Yes,Yes,No,Very easy,Yes,Yes,Yes,Maybe,No,-1
+801,802,23,Male,United States,California,0,Yes,1,6-25,1,No,Don't know,Maybe,No,2,Sometimes,No,Yes,No,No,Very easy,No,Some of them,Yes,Maybe,No,-1
+802,803,39,Male,United States,Connecticut,0,No,0,26-100,1,Yes,Don't know,No,Maybe,1,-1,Yes,No,No,No,Don't know,Yes,No,No,No,No,-1
+803,804,30,Female,United States,California,0,No,0,More than 1000,1,Yes,Yes,No,No,2,-1,No,Yes,Yes,Yes,Very easy,No,Some of them,No,No,No,-1
+805,806,28,Female (trans),United States,California,0,No,1,26-100,1,No,Don't know,No,Maybe,0,Sometimes,No,Yes,No,No,Somewhat difficult,Yes,Some of them,Some of them,No,Yes,-1
+806,807,40,Female,United States,Washington,0,Yes,1,100-500,0,Yes,Yes,No,No,1,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,No,Yes,"I'm comfortable talking about mental health with my current supervisor & my immediate at my current job, but this is a first for me!"
+807,808,36,Female,United States,California,0,Yes,0,6-25,1,Don't know,Don't know,No,No,2,-1,No,No,No,Don't know,Don't know,No,No,Some of them,Maybe,No,-1
+808,809,27,Male,United States,Indiana,0,No,0,26-100,1,Don't know,Don't know,Maybe,No,2,-1,Yes,Not sure,No,Don't know,Very easy,No,Yes,Yes,Maybe,No,-1
+809,810,41,Male,United States,Texas,0,Yes,0,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,Yes,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+812,813,35,Male,United States,Missouri,0,No,1,1-5,0,No,Yes,No,No,0,Often,No,No,No,No,Very difficult,Yes,Some of them,Some of them,Yes,Yes,-1
+813,814,28,Male,United States,Nevada,0,No,1,6-25,1,No,Don't know,No,Maybe,1,Never,Yes,Yes,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+815,816,39,Female,United States,Washington,0,No,0,26-100,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,Don't know,Don't know,Yes,No,No,Yes,No,-1
+816,817,39,Male,United States,Florida,0,Yes,1,500-1000,1,Yes,Yes,No,No,1,Sometimes,No,Yes,Yes,Yes,Very difficult,Maybe,Some of them,Yes,No,No,-1
+820,821,40,Female,United States,Washington,0,Yes,1,100-500,0,Yes,Don't know,No,Maybe,1,Sometimes,No,Not sure,Yes,Don't know,Don't know,Yes,Some of them,No,No,No,-1
+822,823,38,Male,United States,Illinois,0,No,0,More than 1000,1,No,No,No,Yes,1,Never,Yes,Yes,No,No,Very difficult,Yes,No,No,No,No,-1
+823,824,34,Male,United States,Florida,0,No,0,More than 1000,1,Don't know,Don't know,No,No,2,-1,Yes,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+824,825,43,Male,United States,Massachusetts,0,No,0,More than 1000,1,Yes,Don't know,No,No,1,-1,No,No,Yes,Yes,Don't know,No,Some of them,Yes,Maybe,No,-1
+825,826,48,Female,United States,California,0,Yes,0,26-100,1,Don't know,No,No,Yes,0,Often,No,No,No,No,Very difficult,Yes,No,Some of them,No,Yes,"None of us who are already in marginal groups in tech--the non-young, the non-male, the non-white--will risk our careers to admit another source of stigma: poor health."
+826,827,20,Male,United States,Washington,0,No,0,26-100,1,Don't know,Don't know,Maybe,No,2,Never,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+829,830,35,Male,United States,Michigan,0,Yes,1,1-5,0,No,Yes,No,No,2,Sometimes,No,Yes,No,No,Don't know,No,Some of them,Yes,No,No,-1
+830,831,29,Male,United States,Wisconsin,0,Yes,0,More than 1000,0,Yes,Yes,No,No,2,Sometimes,Yes,Yes,No,Yes,Very easy,Maybe,Some of them,No,No,No,-1
+831,832,40,Male,United States,California,0,No,0,100-500,1,Yes,Don't know,No,No,1,Never,No,Not sure,No,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+833,834,29,Female,United States,California,0,Yes,1,100-500,1,Yes,Don't know,No,No,1,Rarely,No,Not sure,Don't know,No,Don't know,No,Yes,Yes,Maybe,No,-1
+834,835,34,Male,United States,Texas,0,No,1,1-5,1,No,Don't know,No,No,1,Sometimes,No,No,No,No,Don't know,Yes,No,No,Yes,No,-1
+836,837,24,Female,United States,New York,0,Yes,1,6-25,1,Yes,Yes,No,No,0,Often,No,Yes,No,No,Very easy,No,Some of them,Yes,Yes,Yes,-1
+837,838,47,Female,United States,Pennsylvania,0,No,0,100-500,1,Don't know,Don't know,No,Yes,0,-1,Yes,No,No,Don't know,Very difficult,Yes,No,No,No,No,-1
+839,840,36,Male,United States,Pennsylvania,0,No,0,More than 1000,1,Yes,Yes,No,No,0,Rarely,No,Yes,Yes,Yes,Somewhat difficult,No,Some of them,Yes,No,No,-1
+840,841,43,Male,United States,Georgia,0,No,1,More than 1000,0,Don't know,Don't know,No,No,1,Sometimes,No,No,No,Don't know,Very difficult,Maybe,Some of them,Yes,No,No,-1
+842,843,31,Female,United States,New York,0,Yes,1,100-500,1,Yes,Don't know,Maybe,No,1,Sometimes,No,Yes,No,No,Somewhat difficult,No,Yes,Yes,Maybe,No,"I have been incredibly public about my own struggle in my own conversations and in social media insofar as how I can use my depression to raise awareness or help others. Because of that, my employer - or any future employer - kind of knows by default. It's not a secret. That said, the downside of that openness is that I have no faith that I wouldn't be discriminated against at a future job, simply because the information is public. Likewise, I worry I'm seen as less-than by my employer in some circumstances. Regerdless, I don't regret being public and raising awareness. My point is that even those of us who do publicly discuss the issue fear systemic retribution. "
+843,844,35,Male,United States,California,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,Yes,Don't know,Don't know,Maybe,Some of them,No,No,No,-1
+844,845,33,Male,United States,Tennessee,0,Yes,0,26-100,0,Yes,Yes,No,No,1,-1,No,No,No,No,Somewhat difficult,No,Some of them,Some of them,No,No,-1
+846,847,34,Male,United States,Tennessee,0,No,1,100-500,1,Don't know,Yes,No,No,1,Sometimes,No,No,Yes,Don't know,Don't know,Maybe,Some of them,No,No,No,At a previous employer I witness a bad thing happen to a coworker with mental health issues get swept under the rug... :(
+849,850,40,Male,United States,Illinois,0,No,0,More than 1000,1,Yes,Yes,No,No,1,Rarely,No,Yes,Yes,Yes,Don't know,No,Some of them,Some of them,Maybe,No,"While not personally affected, I do have immediate family with mental health illness and my employer has been very supportive. Thanks for doing this survey."
+850,851,42,Male,United States,Wisconsin,0,No,1,1-5,1,No,Don't know,No,No,1,Sometimes,Yes,Yes,No,No,Somewhat easy,Maybe,No,No,Maybe,No,-1
+851,852,23,Male,United States,Kentucky,0,Yes,0,26-100,1,Yes,Yes,No,No,1,-1,Yes,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,No,-1
+854,855,31,Male,United States,-1,0,Yes,0,6-25,1,Don't know,Don't know,No,No,1,-1,No,Not sure,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+855,856,25,Male,United States,California,0,Yes,0,More than 1000,1,Yes,Yes,Maybe,No,2,-1,No,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No,-1
+856,857,51,Male,United States,Minnesota,0,No,0,More than 1000,1,Yes,Yes,No,No,2,Never,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,No,No,-1
+857,858,24,Male,United States,Tennessee,0,No,0,6-25,1,Don't know,Yes,No,No,1,-1,No,Not sure,Don't know,No,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+858,859,33,Male,United States,Minnesota,0,No,0,100-500,1,No,Don't know,No,No,0,-1,No,No,No,No,Don't know,Maybe,Some of them,Yes,No,No,"The company I work for was started by engineers, and so anything other then the engineering department has always lacked a bit. Now that we've grown, things are better, but I feel that overall, our total benefits package (including healthcare) isn't well communicated. This reflects negatively on the mental health questions above, but would also reflect negatively on any other sort of survey about the benefits. That is, I don't think the company is purposefully doing less for mental health. They just aren't doing enough across the board and that includes mental health."
+862,863,23,Male,United States,Illinois,0,No,0,100-500,0,Don't know,Don't know,Maybe,No,1,Never,No,No,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+863,864,33,Male,United States,Tennessee,0,Yes,1,6-25,1,No,Don't know,No,No,0,Often,Yes,Yes,No,No,Very difficult,Yes,Some of them,Yes,Maybe,No,-1
+864,865,46,Male,United States,Illinois,0,No,1,More than 1000,0,Yes,Yes,No,Maybe,2,Rarely,No,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Maybe,No,-1
+866,867,35,Male,United States,DC,0,Yes,1,6-25,1,Yes,Don't know,No,Maybe,1,Sometimes,No,Yes,No,No,Somewhat easy,Maybe,Some of them,Some of them,No,No,-1
+867,868,39,Male,United States,Kansas,0,No,0,1-5,1,No,Don't know,Maybe,Maybe,0,-1,Yes,Yes,No,No,Very difficult,Maybe,Some of them,Yes,Maybe,No,Thank you for all you are doing to study this topic and raise awareness in our communities.
+870,871,56,Male,United States,California,0,No,1,More than 1000,1,Yes,Yes,Yes,No,2,Rarely,Yes,Yes,Don't know,Yes,Somewhat easy,No,Yes,Yes,Yes,No,-1
+873,874,39,Male,United States,Tennessee,0,No,0,More than 1000,1,Don't know,Don't know,No,No,1,-1,Yes,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,No,No,-1
+874,875,37,Male,United States,Oklahoma,0,Yes,0,500-1000,0,Yes,Yes,No,No,0,-1,No,Yes,No,No,Very easy,Maybe,No,No,No,No,-1
+876,877,31,Male,United States,Tennessee,0,No,0,26-100,1,Yes,Yes,No,No,0,-1,No,No,Yes,No,Somewhat easy,Maybe,Some of them,Some of them,Maybe,No,-1
+877,878,29,Male,United States,Texas,0,No,0,More than 1000,0,Don't know,Don't know,No,No,1,-1,No,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Maybe,No,-1
+879,880,31,Male,United States,Colorado,0,No,1,26-100,1,Yes,Yes,No,No,1,Never,No,Yes,No,Don't know,Very easy,Maybe,No,No,No,No,-1
+880,881,29,Male,United States,Tennessee,0,Yes,1,26-100,1,Don't know,Don't know,No,No,2,Sometimes,No,Not sure,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+881,882,30,Male,United States,Georgia,0,No,0,26-100,1,Yes,Yes,Maybe,No,2,Never,Yes,Yes,Don't know,Don't know,Very easy,No,Some of them,Yes,Maybe,No,-1
+882,883,37,Male,United States,Tennessee,0,No,0,500-1000,1,Yes,Don't know,No,No,2,Never,Yes,No,Yes,Don't know,Don't know,Maybe,Some of them,Yes,No,Yes,"(yes, but the situation was unusual and involved a change in leadership at a very high level in the organization, as well as an extended leave of absence)"
+884,885,35,Male,United States,Tennessee,0,Yes,1,26-100,1,Yes,Don't know,No,Maybe,0,Sometimes,Yes,Yes,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+885,886,41,Male,United States,DC,0,Yes,0,500-1000,0,Don't know,Don't know,No,No,1,Never,Yes,No,No,No,Don't know,Maybe,No,No,No,No,-1
+889,890,39,Male,United States,Tennessee,0,Yes,0,More than 1000,1,Yes,Don't know,Maybe,Maybe,1,Sometimes,No,No,Yes,Yes,Don't know,Maybe,Some of them,Yes,Maybe,Yes,"I would add that while there were negative consequences for coworkers with mental health, they were given a HUGE amount of leeway.  I think the team at large tried their best to be kind but that's how the person suffered.  
+
+The company actually gave this person a lot of help.  Which was cool.  But the team still discriminated."
+892,893,29,Male,United States,Tennessee,0,Yes,0,100-500,1,Don't know,Don't know,No,No,1,-1,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,No,No,-1
+893,894,30,Male,United States,Tennessee,0,Yes,0,100-500,1,Yes,Don't know,Maybe,Yes,0,Never,No,No,Don't know,Yes,Very difficult,Yes,Some of them,No,Maybe,No,-1
+894,895,40,Male,United States,Tennessee,0,Yes,1,500-1000,1,Don't know,Don't know,No,Maybe,1,Often,Yes,Not sure,No,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No,Bipolar spectrum is tricky.
+895,896,51,Male,United States,Tennessee,0,No,0,100-500,0,Don't know,Don't know,No,No,1,-1,No,Not sure,No,Don't know,Somewhat difficult,No,Some of them,Yes,No,No,-1
+896,897,33,Male,United States,Indiana,0,No,0,More than 1000,1,Yes,Yes,No,No,2,Never,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,No,No,-1
+899,900,24,Male,United States,Texas,0,No,0,26-100,1,Don't know,Don't know,No,No,0,Sometimes,Yes,No,No,Don't know,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+900,901,25,Male,United States,Texas,0,Yes,1,26-100,0,No,Don't know,No,Maybe,0,Rarely,No,No,No,No,Don't know,Yes,No,No,Maybe,No,-1
+905,906,49,Male,United States,Oregon,0,Yes,1,More than 1000,1,Yes,Yes,No,Maybe,0,Sometimes,No,Yes,No,Yes,Somewhat difficult,Yes,No,No,Maybe,Yes,-1
+906,907,30,Male,United States,Oklahoma,0,No,0,More than 1000,1,Yes,Don't know,No,Maybe,1,-1,Yes,No,Yes,Yes,Don't know,Yes,No,No,No,No,-1
+907,908,25,Female,United States,Ohio,0,Yes,1,More than 1000,1,Yes,Don't know,No,Yes,0,Sometimes,No,Yes,Yes,No,Don't know,Yes,No,No,No,No,"While I have not seen any direct retaliation against people with known mental illness, many people do freely use insults commonly associated with mental illness (""r****d"", for example) and criticize people behind their back for taking extra leave for doctor appointments (""Oh, I bet they are just hung over"" or other comments about how lazy they are.)"
+908,909,36,Male,United States,Tennessee,0,No,1,500-1000,1,Yes,Don't know,No,No,1,Rarely,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,No,Maybe,No,-1
+909,910,48,Male,United States,Virginia,0,No,1,More than 1000,1,Yes,Yes,No,Maybe,2,Never,No,Yes,Yes,Yes,Don't know,Maybe,Yes,Yes,Maybe,Yes,-1
+911,912,53,Male,United States,Oregon,0,No,1,6-25,1,Yes,Don't know,No,Maybe,1,Rarely,Yes,Yes,No,Yes,Don't know,Maybe,Some of them,No,No,No,-1
+913,914,33,Male,United States,Oregon,0,Yes,1,26-100,1,Don't know,Don't know,No,No,1,Sometimes,No,Yes,No,Yes,Somewhat easy,No,Yes,Yes,No,No,-1
+918,919,31,Male,United States,South Carolina,0,No,0,More than 1000,1,Yes,Yes,Maybe,No,2,-1,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Yes,No,-1
+919,920,22,Female,United States,California,0,Yes,1,More than 1000,1,Don't know,Don't know,No,Yes,1,Often,No,Not sure,No,Don't know,Don't know,Yes,No,No,No,No,-1
+920,921,28,Male,United States,Tennessee,0,Yes,0,6-25,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,Don't know,Somewhat easy,No,Some of them,Yes,Yes,No,-1
+921,922,35,Male,United States,Utah,0,Yes,1,26-100,0,Yes,Yes,No,No,0,Rarely,No,Yes,No,Yes,Somewhat difficult,Maybe,Some of them,Some of them,No,No,-1
+922,923,28,Male,United States,California,0,Yes,1,26-100,0,Yes,Don't know,No,Maybe,2,Sometimes,No,No,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+924,925,33,Male,United States,Missouri,0,Yes,0,500-1000,1,Yes,Don't know,Yes,No,2,-1,No,No,Don't know,Don't know,Very easy,No,Yes,Yes,Yes,No,-1
+925,926,29,Male,United States,California,0,No,0,More than 1000,1,Yes,Don't know,No,Maybe,1,Sometimes,No,No,Yes,No,Don't know,Yes,No,No,No,No,-1
+926,927,43,Male,United States,-1,0,Yes,0,500-1000,0,Yes,Don't know,No,No,0,Sometimes,No,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Maybe,No,"My employer gives access to basic counseling and referrals, but I don't know (and it's not obvious) what might be covered in the way of expenses for therapy, medication, etc."
+927,928,29,Male,United States,New York,0,No,0,26-100,1,Yes,Don't know,Maybe,No,2,-1,No,Yes,Yes,Yes,Somewhat easy,No,Some of them,Some of them,Maybe,No,-1
+928,929,25,Male,United States,Texas,0,No,0,100-500,1,Yes,Yes,Maybe,No,1,-1,Yes,No,No,No,Don't know,No,Yes,Yes,Maybe,No,-1
+929,930,31,Male,United States,Missouri,0,Yes,0,100-500,1,Don't know,Don't know,No,No,1,Never,No,No,Don't know,Don't know,Very easy,No,Some of them,Yes,No,No,-1
+930,931,35,Female,United States,Georgia,0,Yes,1,6-25,0,Yes,Yes,No,Maybe,2,Sometimes,No,Not sure,Yes,Yes,Somewhat difficult,Maybe,Some of them,Yes,Maybe,No,* Small family business - YMMV.
+931,932,34,Male,United States,Texas,0,No,0,1-5,1,Don't know,Don't know,No,No,2,Often,No,No,No,Yes,Very easy,No,Some of them,Yes,Maybe,No,* Small family business - YMMV.
+932,933,43,Male,United States,Washington,0,No,1,100-500,1,Yes,Yes,No,Maybe,0,Sometimes,Yes,Yes,No,Yes,Very difficult,Yes,Some of them,No,Maybe,Yes,* Small family business - YMMV.
+933,934,38,Male,United States,Washington,0,Yes,1,100-500,1,No,Don't know,No,Yes,0,Sometimes,No,Not sure,No,No,Very difficult,Yes,No,Some of them,Maybe,No,* Small family business - YMMV.
+934,935,26,Male,United States,Washington,0,Yes,1,More than 1000,1,Don't know,Yes,Yes,No,0,Sometimes,No,Not sure,No,Yes,Very difficult,Maybe,Some of them,Some of them,Yes,Yes,* Small family business - YMMV.
+936,937,42,Male,United States,Texas,0,No,1,6-25,1,Don't know,Don't know,No,Maybe,1,Often,No,No,No,Don't know,Don't know,Yes,No,No,Maybe,No,-1
+938,939,32,Male,United States,Washington,0,No,1,More than 1000,1,Yes,Yes,No,No,1,Rarely,No,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,No,No,-1
+939,940,44,Male,United States,Washington,0,Yes,1,6-25,1,Yes,Yes,No,Maybe,0,Sometimes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Some of them,Yes,Maybe,No,-1
+940,941,28,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Rarely,No,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,No,No,No,-1
+941,942,40,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Yes,No,No,1,Sometimes,Yes,Yes,Yes,Yes,Very difficult,Yes,Some of them,Some of them,Maybe,Yes,-1
+942,943,31,Female,United States,Arizona,0,Yes,1,500-1000,1,Yes,Yes,No,No,2,Sometimes,No,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,No,No,-1
+943,944,32,Male,United States,Washington,0,Yes,0,100-500,1,Yes,Don't know,No,No,1,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Some of them,No,No,No,-1
+944,945,28,Male,United States,Washington,0,Yes,1,More than 1000,1,Don't know,Don't know,No,No,0,Sometimes,No,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+945,946,39,Male,United States,Arizona,0,Yes,1,26-100,1,Yes,Yes,No,No,0,Often,No,Yes,No,No,Don't know,Yes,Some of them,No,No,No,-1
+946,947,45,Male,United States,New York,0,No,0,More than 1000,0,Yes,Don't know,No,No,2,-1,No,Yes,Yes,Yes,Don't know,No,Some of them,Some of them,No,No,-1
+947,948,43,Male,United States,Washington,0,No,1,More than 1000,1,Yes,Don't know,Maybe,No,2,Rarely,No,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Yes,No,"I have an exceptional employer. I haven't run into problems with any employer I've had, but consider myself lucky."
+948,949,35,Male,United States,California,0,No,1,More than 1000,1,Yes,Don't know,No,Maybe,1,Sometimes,No,Yes,Don't know,Yes,Very difficult,Maybe,Some of them,Some of them,No,No,-1
+949,950,40,Male,United States,Washington,0,Yes,1,6-25,1,Yes,Yes,No,No,1,Sometimes,No,Yes,Don't know,Don't know,Very easy,Maybe,Some of them,Some of them,No,No,-1
+953,954,36,Female,United States,Washington,0,Yes,1,6-25,1,Don't know,Don't know,No,Maybe,1,Rarely,No,No,No,Don't know,Don't know,Yes,Some of them,No,No,No,-1
+954,955,38,Male,United States,Tennessee,0,No,0,6-25,1,No,Yes,Maybe,No,1,-1,No,No,No,No,Don't know,Maybe,Some of them,Yes,Maybe,No,Some of these should not be required.
+956,957,30,Male,United States,Washington,0,Yes,0,More than 1000,0,Don't know,Don't know,No,Maybe,0,Never,No,No,No,Don't know,Don't know,Yes,No,No,No,No,-1
+958,959,26,Male,United States,California,0,No,1,More than 1000,1,Yes,Don't know,No,No,0,Rarely,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Some of them,Maybe,No,-1
+970,971,43,Male,United States,Michigan,0,No,0,More than 1000,1,No,Don't know,No,Maybe,0,Sometimes,Yes,Not sure,No,No,Very difficult,Yes,No,No,Maybe,Yes,-1
+972,973,40,Male,United States,Indiana,0,Yes,1,6-25,1,Don't know,Don't know,No,No,1,Rarely,No,Not sure,No,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+973,974,49,Male,United States,Georgia,0,Yes,0,More than 1000,1,Yes,Yes,No,No,2,Never,No,Yes,Yes,Yes,Don't know,No,Yes,Yes,No,No,Thank you for shining a light on this topic.
+976,977,38,Male,United States,Washington,0,No,0,More than 1000,1,Yes,Yes,No,Maybe,0,Never,No,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,Maybe,Yes,-1
+980,981,40,Male,United States,Maine,0,Yes,1,1-5,1,No,Don't know,No,Maybe,0,Sometimes,Yes,No,No,No,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+983,984,28,Male,United States,New York,0,Yes,1,100-500,1,Don't know,Don't know,No,No,1,Often,No,Not sure,No,Don't know,Don't know,Maybe,Some of them,Some of them,Yes,No,-1
+988,989,23,Male,United States,Pennsylvania,0,Yes,0,26-100,1,Yes,Yes,No,No,1,Sometimes,No,Not sure,Yes,Yes,Somewhat easy,No,No,No,Maybe,No,-1
+992,993,30,Female,United States,Illinois,0,Yes,1,26-100,1,Yes,Yes,No,No,2,Sometimes,No,Yes,Yes,Don't know,Very easy,No,Some of them,No,No,No,-1
+996,997,39,Male,United States,Minnesota,0,No,1,100-500,1,Yes,Yes,No,No,1,Rarely,Yes,Yes,No,No,Very easy,Maybe,Some of them,Yes,No,No,-1
+997,998,31,Female,United States,Texas,0,Yes,0,More than 1000,0,Yes,Don't know,No,Yes,1,Never,No,Not sure,No,Don't know,Don't know,Yes,No,No,No,No,-1
+1000,1001,25,Male,United States,Pennsylvania,0,Yes,1,6-25,1,Yes,Yes,Maybe,No,1,Often,Yes,Yes,No,Don't know,Somewhat easy,No,Yes,Yes,Maybe,No,-1
+1001,1002,42,Male,United States,Indiana,0,Yes,1,6-25,1,Don't know,Don't know,No,No,1,Sometimes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+1002,1003,34,Male,United States,Pennsylvania,0,Yes,1,100-500,1,Yes,Yes,Maybe,No,1,Often,No,Yes,No,No,Very easy,No,Yes,Yes,Maybe,No,-1
+1003,1004,26,Female,United States,Ohio,0,No,1,26-100,1,Don't know,Don't know,Maybe,No,1,Sometimes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,Yes,-1
+1006,1007,38,Male,United States,Pennsylvania,0,Yes,1,100-500,0,Yes,Yes,Yes,No,1,Sometimes,Yes,Yes,No,Yes,Very easy,No,Yes,Yes,Yes,No,While mental health is a part of our insurance program the UCR is 50% of 140% of medicare which means a solo mental health practitioner who will charge in my area $150-$180 a session will only result in a $45-$60 reimbursement and thus a very high out of pocket expense. This usage of a different schedule for UCR and often the lower rate is very hard to determine before purchasing insurance even in the new health insurance exchanges.
+1007,1008,34,Male,United States,South Dakota,0,No,0,100-500,1,Don't know,Don't know,No,No,1,Sometimes,No,No,No,No,Don't know,Yes,Some of them,No,Maybe,No,-1
+1008,1009,39,Male,United States,Indiana,0,Yes,1,6-25,1,No,Yes,Maybe,No,2,Sometimes,Yes,Yes,No,No,Somewhat easy,No,Some of them,Yes,Yes,No,-1
+1009,1010,44,Female,United States,California,0,No,0,100-500,1,Don't know,Don't know,No,No,1,-1,No,Not sure,No,No,Don't know,Yes,No,No,No,No,-1
+1010,1011,40,Male,United States,Tennessee,0,No,0,More than 1000,0,Yes,Yes,No,No,1,-1,No,Yes,Yes,Yes,Don't know,Maybe,No,Yes,No,No,-1
+1012,1013,24,Female,United States,Tennessee,0,Yes,0,More than 1000,0,Yes,Don't know,No,Maybe,0,Sometimes,No,Yes,No,Don't know,Somewhat difficult,Yes,Some of them,Some of them,No,Yes,-1
+1013,1014,38,Female,United States,Oregon,0,Yes,0,26-100,1,Don't know,Don't know,No,No,1,Sometimes,Yes,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,No,No,-1
+1014,1015,31,Male,United States,South Dakota,0,No,0,More than 1000,1,Yes,Yes,No,Maybe,2,Sometimes,No,Not sure,Yes,Yes,Don't know,Yes,Some of them,Some of them,Maybe,No,-1
+1016,1017,26,Female,United States,New York,0,No,0,6-25,1,Don't know,Don't know,No,No,2,-1,No,Not sure,No,No,Somewhat easy,No,Yes,Yes,Maybe,No,-1
+1017,1018,46,Female (trans),United States,Connecticut,0,No,1,More than 1000,0,Yes,Don't know,No,No,0,Often,No,Yes,Yes,Yes,Don't know,Yes,Some of them,Some of them,No,Yes,-1
+1018,1019,30,Male,United States,California,0,Yes,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,Yes,No,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+1019,1020,25,Male,United States,-1,0,No,0,26-100,1,Don't know,Don't know,No,No,1,Rarely,Yes,No,No,No,Somewhat easy,Yes,Some of them,Some of them,Yes,Yes,"My work is using my brain. I do it incredibly well.
+
+I make an effort to avoid diagnosis of anything mental health related because I am convinced it would only affect me negatively."
+1021,1022,30,Female,United States,Georgia,0,Yes,1,500-1000,0,Yes,Yes,No,Maybe,0,Sometimes,No,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,No,Yes,-1
+1022,1023,32,Male,United States,Tennessee,0,No,0,6-25,1,Yes,Don't know,No,No,2,Never,No,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Maybe,No,-1
+1024,1025,37,Male,United States,Indiana,0,Yes,0,26-100,1,Don't know,Don't know,No,No,0,Sometimes,Yes,No,No,No,Somewhat easy,Maybe,Some of them,Some of them,Maybe,No,"My employer is extremely easy to work with and e.g. I have enormous leeway with flex time, so I could take care of myself under that umbrella, but I don't know and don't have a history of bring up mental health at the workplace so I am cautious in that area."
+1025,1026,42,Male,United States,California,0,Yes,1,6-25,1,Don't know,Don't know,No,Maybe,1,Sometimes,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+1026,1027,25,Female,United States,Oregon,0,No,0,More than 1000,1,Yes,Don't know,Maybe,No,2,Never,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,No,No,-1
+1027,1028,19,Male,United States,Indiana,0,No,0,1-5,1,Don't know,Don't know,Maybe,No,1,Sometimes,No,Not sure,No,No,Don't know,No,Some of them,Yes,Maybe,No,-1
+1028,1029,40,Female,United States,Georgia,0,Yes,0,100-500,1,Yes,Don't know,No,Yes,1,Never,Yes,Yes,Yes,No,Don't know,Yes,No,No,No,No,-1
+1029,1030,34,Male,United States,Indiana,0,No,0,More than 1000,0,Yes,Don't know,No,Maybe,1,-1,No,Not sure,Yes,Don't know,Don't know,Maybe,Some of them,Yes,No,No,-1
+1030,1031,26,Male,United States,Minnesota,0,Yes,0,6-25,1,Don't know,Don't know,No,No,2,-1,No,Not sure,No,No,Don't know,No,Some of them,Yes,No,No,-1
+1031,1032,31,Male,United States,Minnesota,0,Yes,1,6-25,1,Don't know,Yes,Maybe,No,2,Rarely,No,Not sure,Don't know,Don't know,Don't know,No,Yes,Yes,Maybe,No,-1
+1032,1033,40,Male,United States,North Carolina,0,Yes,0,More than 1000,0,Yes,Don't know,No,Maybe,0,Sometimes,Yes,Not sure,Yes,Don't know,Don't know,Yes,Some of them,Some of them,Maybe,No,-1
+1033,1034,31,Female,United States,Florida,0,Yes,1,26-100,1,No,No,No,No,0,Often,No,No,No,No,Very difficult,Yes,No,No,Yes,Yes,-1
+1034,1035,36,Male,United States,Minnesota,0,No,0,100-500,0,Don't know,Don't know,No,Maybe,1,Never,No,No,No,Don't know,Don't know,Yes,No,No,Maybe,Yes,-1
+1037,1038,44,Male,United States,Missouri,0,No,0,More than 1000,0,Don't know,Yes,No,No,0,-1,Yes,No,Don't know,Don't know,Don't know,Yes,Some of them,No,No,No,-1
+1038,1039,34,Female,United States,California,0,No,0,1-5,1,No,Don't know,No,No,2,Sometimes,No,Not sure,No,No,Very easy,No,Some of them,Yes,Maybe,No,-1
+1039,1040,35,Male,United States,Oregon,0,No,0,6-25,1,No,Don't know,No,No,1,-1,Yes,No,No,No,Don't know,No,No,No,No,No,-1
+1040,1041,28,Female,United States,Ohio,0,Yes,1,26-100,1,Don't know,Don't know,No,No,0,Sometimes,Yes,No,No,No,Somewhat easy,Yes,Some of them,Some of them,Maybe,No,-1
+1041,1042,33,Male,United States,New York,0,No,0,6-25,1,Yes,Yes,No,No,2,-1,Yes,No,Don't know,Yes,Don't know,No,Some of them,Yes,No,No,-1
+1042,1043,40,Male,United States,Wisconsin,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,1,Sometimes,Yes,Yes,No,Yes,Don't know,Yes,No,No,Maybe,No,-1
+1043,1044,26,Male,United States,Washington,0,No,1,6-25,1,Yes,Yes,No,No,1,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+1050,1051,26,Female,United States,Washington,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,No,Don't know,No,Some of them,Yes,Maybe,Yes,"I should note, one of the places my employer fails with regards to mental health is that the company-paid health insurance policy does not cover trans healthcare needs."
+1051,1052,23,Female,United States,Illinois,0,Yes,0,26-100,0,No,Don't know,No,No,0,Sometimes,No,No,No,No,Somewhat difficult,Yes,No,Some of them,Maybe,No,-1
+1053,1054,36,Male,United States,Florida,0,No,0,1-5,1,Don't know,Don't know,No,No,1,Never,Yes,Not sure,Don't know,Don't know,Very easy,No,Some of them,Some of them,No,No,-1
+1054,1055,42,Male,United States,Tennessee,0,No,0,More than 1000,0,Don't know,Don't know,No,No,0,Rarely,No,No,No,Don't know,Don't know,Maybe,Some of them,No,Maybe,No,-1
+1055,1056,39,Male,United States,Washington,0,Yes,1,500-1000,1,Yes,Yes,No,No,2,Sometimes,No,Yes,No,Don't know,Very easy,No,Some of them,Yes,No,No,-1
+1056,1057,27,Male,United States,California,0,No,0,6-25,1,Don't know,Don't know,Maybe,No,1,Never,No,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+1059,1060,28,Female,United States,Oregon,0,No,1,6-25,1,Yes,Yes,No,No,1,Rarely,No,Yes,Don't know,Yes,Very easy,No,Some of them,Some of them,Yes,No,-1
+1060,1061,29,Female,United States,New Jersey,0,No,1,More than 1000,0,Yes,Don't know,Maybe,No,1,Often,Yes,No,No,No,Somewhat easy,No,Some of them,Yes,Maybe,No,-1
+1061,1062,27,Male,United States,California,0,No,1,100-500,1,Don't know,Yes,No,No,0,Sometimes,No,Not sure,No,No,Very difficult,Maybe,Some of them,No,Maybe,No,-1
+1063,1064,25,Male,United States,Utah,0,No,1,6-25,1,Don't know,Don't know,No,No,1,Often,Yes,No,No,No,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+1066,1067,34,Male,United States,New Jersey,0,No,0,6-25,1,Yes,Don't know,No,Maybe,1,Never,Yes,Not sure,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Maybe,No,-1
+1067,1068,26,Male,United States,Pennsylvania,0,No,0,More than 1000,0,Yes,Don't know,No,No,1,Never,No,Yes,No,Don't know,Somewhat difficult,Maybe,No,Yes,No,No,-1
+1068,1069,48,Male,United States,Indiana,0,No,0,26-100,0,Yes,Yes,No,No,1,Never,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,Maybe,No,-1
+1070,1071,39,Female,United States,Ohio,0,No,1,6-25,1,No,Don't know,No,Maybe,0,Sometimes,Yes,No,No,No,Don't know,Maybe,Some of them,Some of them,Maybe,No,I've never heard of a workplace that would actually allow you to call off for mental health reasons. So many places require a doctor's note for calling off sick. It's all set up to make you feel worse if you can't just suck it up. Thanks for working to change this!!!
+1071,1072,43,Male,United States,Ohio,0,No,0,More than 1000,1,Yes,Don't know,No,No,1,Sometimes,Yes,Not sure,No,Yes,Don't know,Maybe,No,No,No,No,-1
+1072,1073,41,Male,United States,Illinois,0,No,0,More than 1000,1,Yes,Don't know,No,Maybe,2,Rarely,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,No,No,Yes,-1
+1073,1074,25,Male,United States,Indiana,0,No,0,More than 1000,0,Don't know,Don't know,No,No,1,Never,No,No,No,No,Don't know,No,Some of them,Yes,No,No,-1
+1074,1075,31,Male,United States,California,0,No,1,100-500,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,No,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+1075,1076,40,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Yes,No,Yes,0,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,No,No,Maybe,Yes,-1
+1077,1078,27,Female,United States,Washington,0,Yes,1,More than 1000,1,Yes,Yes,No,No,0,Often,No,Yes,Yes,Yes,Very difficult,Maybe,Yes,Some of them,Maybe,Yes,"I answered based on previous job at large technical company, where I was pushed out of my role within 3 months of disclosing diagnosis.
+
+I had been struggling for 3 months prior to disclosure and was incredibly relieved when finally diagnosed. Growing up in a family open about mental health and also at the end of my rope, I immediately shared with management what was going on. I requested a temporary reduced workload so I could reduce anxiety. (At time I didn't know it was anxiety as took me a year to accept that the (to me) ""deserved"" stress was anxiety, caused by my core diagnosis.) When disclosing, I didn't deeply understand details of the state of my mental health; I simply knew I was so stressed out by having been unable to get myself to do work in three months that I couldn't juggle all that was currently on my plate.
+
+It was at this point my direct manager and I began an almost daily struggle. After working on a single project and making progress (compared to 3 months before diagnosis when management didn't even know how bad I was doing), I requested increasing my workload. This was never granted; boss said I hadn't proved myself and implied I could not be trusted.
+
+Two huge issues stick out to me from that experience:
+1) Company assumes things would be better and back to 100% within months. They did not understand what one goes through when figuring out meds: things at times got worse. They did not understand how long it takes until meds are figured out: mine took two years. They most certainly would not truly understand why to this day, four years later, despite being ""stable"" I'm in counseling every other week in addition to being on meds. Rather than supporting that, it would be seen as ""oh, I'm sorry"". I was a problem to my manager because he didn't see improvements each week.
+2) Accomodations.
+- There was no option for me to reduce work temporarily to part-time (too complicated). Instead, they pushed me to take disability leave. I told them that wouldn't help; they told me to double-check with care providers. That required me to see a psychologist unnecessarily, as psychologist said I didn't qualify for leave. (Expensive, unnecessary appointment).
+- The assistance I needed the most at work was understanding: I was open, but my manager told me to not tell my co-worker assigned to support me. That was disasterous for colleague's stress/frustration levels. He knew something was up, but was barred from asking and I was implied it was better to keep my mouth shut.
+- Accommodations weren't understood by even Benefits, as they're not trained in mental health nor do they have people come in to assess how they're doing in supporting those with mental health issues. Should be no different than people coming in to assess for physical accessibility of the workplace. When in a meeting with my manager supervised by HR, I shouldn't feel like I'm asking too much of manager when requesting he put the negative critiques on the back burner and help me figure out whether I'm doing anything right. That this didn't stop him from coming into my office that same day and ""putting on my dick hat"" to yell at me for something that wasn't even my fault (he had brought in co-worker for this yelling, and turned to finish yelling at this person): FUCKING UNACCEPTABLE.
+
+While I will never return to that company and as such took the severance package, I will NEVER agree with their legal reason for being unable to do the job: me being ""medically disqualified from this role"". I was too expensive in the short term for them; I'm not worth the cost."
+1078,1079,37,Female,United States,New Jersey,0,Yes,1,26-100,1,Yes,Don't know,No,Maybe,1,Sometimes,Yes,Yes,No,Don't know,Don't know,Yes,No,No,Maybe,No,"If a man in tech is afraid of speaking up about these things, it is even worse for women in tech who are already fearful of and fighting against the stigma of incompetence.  
+
+On the other hand, if a female in tech does not commiserate with her male coworkers on mental health problems, she will no longer be seen as a team player. It is really a catch-22 for women in STEM."
+1080,1081,25,Male,United States,Utah,0,Yes,1,1-5,1,No,Yes,No,No,0,Often,No,Yes,No,No,Very easy,Maybe,Yes,Yes,Maybe,No,-1
+1082,1083,30,Female,United States,Tennessee,0,Yes,1,More than 1000,0,Yes,Don't know,No,No,0,Often,No,No,No,No,Somewhat difficult,Yes,No,No,Maybe,No,This issue for me is very real at the moment. I have missed several days of work recently because of a bad reaction to a depression/anxiety drug and I hate not being able to discuss it with my boss without worrying that I will be labeled a liability.
+1087,1088,38,Male,United States,Indiana,0,Yes,0,More than 1000,0,Yes,Don't know,No,Maybe,0,Never,No,Not sure,Yes,Yes,Don't know,Yes,Some of them,No,No,No,-1
+1088,1089,32,Male,United States,Indiana,0,No,1,26-100,1,Yes,Yes,No,No,1,Sometimes,No,Yes,Yes,Don't know,Don't know,No,Some of them,Yes,Maybe,No,-1
+1089,1090,28,Female,United States,California,0,Yes,1,100-500,1,Yes,Don't know,No,No,2,Sometimes,No,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Some of them,No,No,-1
+1091,1092,43,Male,United States,Texas,0,Yes,0,100-500,0,Yes,Don't know,No,No,0,Never,No,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Maybe,No,-1
+1092,1093,32,Male,United States,Tennessee,0,Yes,1,100-500,1,No,Don't know,No,No,0,Often,No,Yes,No,No,Very difficult,Yes,Yes,Yes,Yes,No,-1
+1093,1094,25,Male,United States,Washington,0,No,1,More than 1000,1,Yes,Yes,No,No,2,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,-1
+1094,1095,37,Male,United States,Utah,0,No,1,100-500,1,Yes,Yes,No,No,2,Sometimes,No,No,No,Yes,Very easy,No,No,Yes,No,No,-1
+1096,1097,24,Male,United States,Wisconsin,0,Yes,1,6-25,1,Don't know,Don't know,Maybe,No,2,Rarely,Yes,No,No,No,Very easy,No,Yes,Yes,Yes,No,-1
+1097,1098,40,Male,United States,Washington,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,1,Sometimes,No,Not sure,Yes,Don't know,Somewhat difficult,Maybe,Some of them,Some of them,Maybe,Yes,"Really manager dependent. I have had managers who work with my strengths and others who want my to work on my ""weaknesses"" which are directly tied to my mental issues. "
+1098,1099,29,Male,United States,Wisconsin,0,No,0,More than 1000,0,Don't know,Yes,No,No,2,-1,No,Not sure,Yes,Don't know,Somewhat easy,No,Some of them,Yes,Maybe,No,"Though it doesn't affect me (male), good job for making the Gender field a text input instead of a drop down of only two options."
+1099,1100,43,Male,United States,New York,0,No,0,500-1000,1,Don't know,Don't know,No,No,2,Never,No,No,No,Don't know,Don't know,No,Yes,Some of them,No,No,-1
+1100,1101,29,Male,United States,New York,0,No,0,6-25,1,Yes,Don't know,Maybe,No,1,-1,Yes,Not sure,No,Yes,Don't know,Maybe,Some of them,Yes,Yes,No,-1
+1101,1102,26,Male,United States,Ohio,0,Yes,0,100-500,1,Don't know,Don't know,No,No,1,Sometimes,No,Not sure,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+1103,1104,35,Female,United States,Washington,0,Yes,0,6-25,1,Don't know,Don't know,No,No,2,Sometimes,Yes,No,No,No,Somewhat easy,No,Yes,Some of them,No,No,-1
+1104,1105,45,Male,United States,California,0,No,0,6-25,1,Yes,Don't know,No,Maybe,1,Never,Yes,No,No,No,Don't know,Yes,Some of them,No,Maybe,No,-1
+1105,1106,25,Male,United States,South Carolina,0,No,1,6-25,1,No,Don't know,No,No,1,Rarely,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Some of them,Maybe,No,-1
+1108,1109,33,Female,United States,California,0,No,1,More than 1000,1,Yes,Don't know,No,No,1,Often,No,Yes,Don't know,Don't know,Don't know,Yes,No,No,Maybe,No,-1
+1113,1114,25,Male,United States,Minnesota,0,Yes,1,1-5,1,Don't know,Don't know,Maybe,No,1,Sometimes,Yes,No,Don't know,Don't know,Very easy,No,Yes,Yes,Yes,No,"I was (wrongly) diagnosed clinically depressed at 12 then bipolar I at 15, and medicated for a decade until decided myself to go drug free. Since then I've never been happier. Insomnia and my insatiablility for learning and programming have always had a symbiotic  relationship.
+
+It might also bear mentioning that I'm self-employed in addition to my more traditional day job."
+1114,1115,40,Male,United States,Washington,0,No,0,More than 1000,0,Yes,Don't know,No,No,1,-1,No,Not sure,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Maybe,No,-1
+1117,1118,46,Male,United States,Pennsylvania,0,Yes,1,6-25,1,Don't know,Don't know,No,Maybe,1,Sometimes,No,Yes,No,Don't know,Don't know,Yes,No,Some of them,Maybe,No,-1
+1118,1119,38,Male,United States,New York,0,Yes,1,More than 1000,0,Yes,Yes,No,No,1,Rarely,No,Yes,Yes,Yes,Somewhat easy,Yes,No,Yes,Yes,No,-1
+1119,1120,34,Male,United States,Vermont,0,No,0,1-5,1,No,Don't know,No,Yes,1,Never,Yes,Yes,No,No,Don't know,Yes,No,No,No,No,"My employer currently does not offer any health insurance, I have to get that on my own.  However at past positions I have had health insurance but no one ever mentioned mental health issues nor would I wish to discuss those with my co-workers, bosses, etc for fear of negative reception."
+1123,1124,45,Female,United States,Michigan,0,No,1,26-100,0,Don't know,Don't know,No,No,1,Rarely,No,No,Don't know,Don't know,Don't know,No,Some of them,Some of them,Maybe,No,-1
+1124,1125,35,Male,United States,New York,0,No,0,6-25,1,Don't know,Yes,No,No,2,-1,No,Not sure,Don't know,Don't know,Don't know,No,No,No,No,No,"Mental health at work is not an issue if you leave work ""problems"" at work, that may be easier for those of us not in a support role."
+1126,1127,20,Female,United States,New York,0,No,1,26-100,1,Don't know,Don't know,Maybe,No,1,Sometimes,Yes,Not sure,Don't know,Don't know,Don't know,No,Some of them,Some of them,Maybe,No,-1
+1129,1130,28,Male,United States,Michigan,0,No,0,More than 1000,0,Yes,Yes,No,No,0,-1,No,No,No,No,Somewhat easy,Maybe,No,No,Yes,No,-1
+1130,1131,42,Female,United States,Washington,0,Yes,1,26-100,0,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,No,Don't know,Yes,Some of them,Some of them,Yes,No,-1
+1132,1133,36,Female,United States,Tennessee,0,Yes,1,More than 1000,1,Yes,Yes,No,Maybe,1,Rarely,Yes,Yes,No,No,Somewhat easy,Maybe,Some of them,No,No,No,-1
+1145,1146,26,Female,United States,New York,0,Yes,0,26-100,1,Don't know,Don't know,No,No,1,Sometimes,Yes,No,No,No,Don't know,Maybe,No,No,No,No,-1
+1148,1149,35,Male,United States,Indiana,0,Yes,1,More than 1000,0,Yes,Don't know,No,No,1,Often,No,Yes,No,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,-1
+1149,1150,32,Male,United States,North Carolina,0,No,0,6-25,1,Yes,Don't know,No,No,1,Rarely,No,Not sure,No,Don't know,Don't know,Maybe,No,Some of them,Maybe,No,-1
+1150,1151,32,Male,United States,California,0,No,1,More than 1000,1,Yes,Yes,No,Maybe,1,Sometimes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,Some of them,Some of them,No,Yes,-1
+1154,1155,39,Male,United States,Tennessee,0,Yes,1,26-100,0,Don't know,Don't know,No,No,1,Often,No,Not sure,No,No,Somewhat easy,Yes,Some of them,Some of them,Maybe,No,-1
+1158,1159,30,Male,United States,Minnesota,0,Yes,1,6-25,1,No,Don't know,No,No,1,Rarely,No,Yes,No,No,Don't know,No,No,No,No,No,People have often felt uncomfortable with my story while most of it happened a decade ago. I used to be quite open about it and have since kept it quietly tucked away. While I sometimes have waves of depression I have learned to cope with the affects.
+1160,1161,29,Male,United States,North Carolina,0,No,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,No,Yes,No,No,Don't know,Yes,Some of them,Some of them,Maybe,No,-1
+1163,1164,26,Male,United States,Texas,0,Yes,1,6-25,1,Don't know,Don't know,Maybe,No,1,Sometimes,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,Some of them,Maybe,No,-1
+1164,1165,46,Female,United States,California,0,No,1,100-500,0,Yes,Yes,No,No,0,Often,Yes,Yes,No,No,Don't know,Maybe,Some of them,Some of them,Maybe,No,-1
+1165,1166,32,Male,United States,California,0,Yes,0,More than 1000,1,Yes,Don't know,No,No,1,Sometimes,No,No,Yes,Don't know,Don't know,Maybe,Yes,Yes,No,No,-1
+1166,1167,29,Male,United States,Illinois,0,Yes,1,26-100,0,Yes,Don't know,No,No,1,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,No,Maybe,No,-1
+1169,1170,32,Female,United States,Pennsylvania,0,No,1,More than 1000,1,Yes,Don't know,No,No,0,Sometimes,No,Yes,No,Don't know,Don't know,Maybe,Some of them,No,No,No,-1
+1170,1171,29,Male,United States,Illinois,0,No,0,More than 1000,1,Don't know,Don't know,Maybe,No,0,-1,No,Not sure,No,No,Don't know,Maybe,Some of them,Yes,Yes,No,-1
+1171,1172,30,Male,United States,Illinois,0,No,0,More than 1000,0,Yes,Don't know,No,Maybe,1,-1,No,No,Yes,Yes,Don't know,Yes,No,No,No,No,-1
+1172,1173,40,Female,United States,Minnesota,0,Yes,1,26-100,1,Yes,Yes,No,No,2,Sometimes,No,Yes,No,Yes,Somewhat easy,No,Yes,Yes,Maybe,Yes,-1
+1175,1176,38,Male,United States,New York,0,Yes,0,6-25,1,Don't know,Don't know,No,No,1,-1,No,No,No,No,Somewhat difficult,No,Some of them,Yes,No,Yes,-1
+1176,1177,26,Female,United States,Michigan,0,Yes,1,100-500,1,Yes,Don't know,No,Maybe,0,Rarely,No,No,No,No,Don't know,Maybe,No,No,Maybe,No,-1
+1177,1178,29,Male,United States,Ohio,0,No,0,26-100,1,No,Don't know,No,No,0,Never,No,No,No,Don't know,Don't know,No,Some of them,Yes,Yes,Yes,-1
+1180,1181,32,Female,United States,New York,0,No,1,26-100,1,Yes,Yes,No,Maybe,0,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+1181,1182,38,Male,United States,California,0,Yes,1,More than 1000,0,Yes,Yes,No,No,0,Sometimes,No,Yes,Yes,Yes,Don't know,Maybe,Some of them,No,Maybe,Yes,-1
+1182,1183,72,Female,United States,Indiana,0,Yes,1,500-1000,0,Yes,Don't know,No,Maybe,1,Never,Yes,Not sure,Don't know,Yes,Somewhat easy,Maybe,Some of them,Yes,No,Yes,-1
+1183,1184,35,Female,United States,Indiana,0,Yes,1,1-5,1,No,Yes,No,Maybe,2,Sometimes,Yes,No,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+1184,1185,28,Female,United States,Virginia,0,No,1,6-25,1,No,Don't know,No,Maybe,1,Often,No,Yes,No,No,Very difficult,Yes,Some of them,Some of them,No,No,-1
+1185,1186,27,Female,United States,Oklahoma,0,No,0,100-500,0,Don't know,Don't know,No,No,2,Never,No,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,No,No,-1
+1187,1188,38,Male,United States,Alabama,0,Yes,1,26-100,1,Yes,Don't know,No,No,1,Sometimes,Yes,No,No,No,Don't know,Maybe,Some of them,Some of them,No,No,-1
+1189,1190,40,Male,United States,Alabama,0,Yes,1,6-25,1,Yes,Yes,No,No,2,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+1190,1191,44,Male,United States,Ohio,0,Yes,1,100-500,1,Yes,Yes,No,No,1,Sometimes,No,Yes,No,Yes,Don't know,Maybe,Some of them,Some of them,No,No,"My mental health issues were the direct result of the trauma from childhood abuse. Most (all?) of the Prompt-sponsored/related presentations I've seen have been about congenital mental health issues that are treatable with continued medication. For me, medication only provided temporary assistance. I needed years of (continuing) therapy to deal with PTSD and related disorders (depression, anxiety, suicidal tendencies, others). I haven't seen many in our community discussing trauma-related mental health issues, but they are just as real and just as debilitating."
+1198,1199,32,Male,United States,Texas,0,No,1,26-100,1,Yes,Don't know,No,Maybe,1,Often,Yes,Not sure,No,Don't know,Very difficult,Yes,Some of them,No,No,No,-1
+1201,1202,28,Female,United States,Texas,0,No,1,6-25,1,Yes,Don't know,No,Yes,0,Rarely,No,No,No,No,Somewhat easy,Yes,Some of them,No,No,Yes,-1
+1207,1208,23,Male,United States,Texas,0,No,1,1-5,1,No,No,No,Maybe,0,Sometimes,No,Yes,No,No,Very easy,Maybe,Some of them,Yes,No,No,-1
+1214,1215,33,Male,United States,Florida,0,No,1,26-100,1,Yes,Yes,No,No,1,Often,Yes,Yes,No,No,Don't know,Maybe,Some of them,No,Maybe,No,-1
+1219,1220,38,Male,United States,Texas,0,No,1,More than 1000,1,Yes,Yes,No,No,1,Sometimes,Yes,No,Yes,Yes,Very easy,No,Yes,Yes,No,No,I openly discuss my mental health struggles. I have found that doing so encourages people who also struggle to seek treatment. I'm willing to risk losing the support of people who don't understand if it helps those who understand all too well.
+1220,1221,46,Male,United States,California,0,Yes,1,26-100,1,Don't know,Don't know,No,No,0,Often,No,No,No,No,Don't know,Maybe,Some of them,No,No,No,-1
+1221,1222,46,Male,United States,Maryland,0,Yes,1,100-500,1,Don't know,Don't know,Yes,No,1,Sometimes,Yes,Not sure,Don't know,Don't know,Don't know,No,Some of them,Yes,Yes,No,"Just starting a new job, hence the numerous ""I don't know"" selections."
+1228,1229,25,Male,United States,Minnesota,0,Yes,1,26-100,1,Don't know,Don't know,No,No,1,Sometimes,No,Yes,No,No,Somewhat easy,Yes,Some of them,Some of them,Maybe,No,-1
+1236,1237,60,Male,United States,California,0,No,1,More than 1000,1,Don't know,Don't know,No,Maybe,1,Often,Yes,No,Yes,Don't know,Somewhat easy,Maybe,Some of them,No,Maybe,No,-1
+1238,1239,28,Male,United States,Tennessee,0,Yes,1,More than 1000,0,Yes,Yes,No,Maybe,0,Often,No,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Yes,No,Yes,-1
+1243,1244,43,Female,United States,Florida,0,Yes,1,More than 1000,1,Yes,Don't know,No,No,1,Rarely,Yes,Yes,No,Yes,Don't know,No,Some of them,Yes,No,No,-1
+1246,1247,32,Male,United States,Oregon,0,No,0,100-500,1,Yes,Don't know,Maybe,No,1,Never,No,Not sure,Don't know,Yes,Somewhat easy,No,No,Some of them,Yes,No,-1
+1248,1249,41,Female,United States,Washington,0,Yes,1,26-100,1,Yes,Don't know,No,Maybe,1,Sometimes,No,No,No,Don't know,Don't know,Yes,No,No,No,No,-1
+1249,1250,30,Male,United States,California,0,Yes,1,26-100,1,Yes,Yes,Maybe,No,2,Sometimes,No,Yes,Don't know,No,Very easy,No,Yes,Yes,Maybe,No,Bipolar disorder
+1252,1253,29,Male,United States,North Carolina,0,Yes,1,100-500,1,Yes,Yes,No,No,0,Sometimes,Yes,Yes,Yes,No,Don't know,Yes,Some of them,No,Maybe,No,-1
+1253,1254,36,Male,United States,Utah,0,Yes,0,More than 1000,0,Don't know,Don't know,No,Maybe,1,Rarely,No,No,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,No,No,-1
+1255,1256,32,Male,United States,Illinois,0,Yes,1,26-100,1,Yes,Yes,No,No,2,Often,Yes,Yes,No,No,Somewhat difficult,No,Some of them,Yes,No,No,-1
+1256,1257,34,Male,United States,California,0,Yes,1,More than 1000,1,Yes,Don't know,No,Yes,0,Sometimes,No,Yes,No,No,Somewhat difficult,Yes,No,No,No,No,-1
+1257,1258,46,Female,United States,North Carolina,0,No,0,100-500,1,No,Don't know,No,No,0,-1,Yes,Yes,No,No,Don't know,Yes,No,No,No,No,-1
+1258,1259,25,Male,United States,Illinois,0,Yes,1,26-100,0,Yes,Yes,No,No,1,Sometimes,No,Yes,No,No,Don't know,Maybe,Some of them,No,No,No,-1
